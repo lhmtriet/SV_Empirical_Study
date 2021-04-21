@@ -1,0 +1,2 @@
+include so_textprocessing/data/uk_us.csv
+include so_textprocessing/data/sec.txt

@@ -1,0 +1,38 @@
+TOPIC 0: malwar, file, viru, instal, infect, window, comput, detect, malici, drive
+Label: Malwares (T1)
+
+TOPIC 1: sql, inject, queri, string, databas, paramet, input, php, valu, tabl
+Label: SQL Injection (T2)
+
+TOPIC 2: applic, version, issu, test, run, zap, scan, app, tool, owasp
+Label: Vulnerability Testing (T3)
+
+TOPIC 3: request, csrf, token, cooki, form, api, user, header, post, page
+Label: Cross-site Request Forgery (T4)
+
+TOPIC 4: file, run, python, execut, command, script, contain, upload, linux, imag
+Label: File-Related Vulnerabilities (T5)
+
+TOPIC 5: thread, deadlock, lock, process, relea, block, wait, time, race, condit
+Label: Synchronisation Errors (T6)
+
+TOPIC 6: attack, server, key, client, secur, encrypt, data, password, access, certify
+Label: Encryption Errors (T7)
+
+TOPIC 7: memori, leak, object, class, android, refer, creat, method, app, instanc
+Label: Resource Leaks (T8)
+
+TOPIC 8: attack, server, network, ip, connect, port, address, host, spoof, ddos
+Label: Network Attacks (T9)
+
+TOPIC 9: function, fault, segment, program, pointer, array, error, memori, loop, alloc
+Label: General Memory Errors (T10)
+
+TOPIC 10: xss, javascript, html, url, attack, data, browser, user, page, script
+Label: Cross-site Scripting (T11)
+
+TOPIC 11: vulner, secur, exploit, attack, data, access, possibl, make, question, need
+Label: Vulnerability Theory (T12)
+
+TOPIC 12: time, number, hash, veri, password, limit, size, larg, ram, random
+Label: Brute-force / Timing Attacks (T13)

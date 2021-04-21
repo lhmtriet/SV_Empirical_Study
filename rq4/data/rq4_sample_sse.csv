@@ -1,0 +1,386 @@
+postid,year,tags,topic,score,source,question_label,answer_label
+43794,13/10/2013 23:59,flash|macos|malware|virus,0,0.500755727,sse,DC,"DC, Ex"
+20951,2/10/2012 10:12,antivirus|malware|virus,0,0.47053352,sse,DC*,Ex
+179977,17/02/2018 16:18,malware,0,0.705745935,sse,DH,Co
+27769,9/01/2013 16:06,antivirus|virus|virus-removal,0,0.426363885,sse,Co,Ex
+192082,22/08/2018 11:04,http|internet|malware|virus|websites,0,0.430358469,sse,DH,DC
+180053,19/02/2018 12:54,malware|sms|trojan|virus,0,0.722277224,sse,HT,AT
+169133,9/09/2017 18:12,ubuntu|usb-drive|virus|windows,0,0.382770121,sse,DH,Co
+60744,10/06/2014 19:38,email|malware,0,0.773502171,sse,Co,"Co, ES"
+43794,13/10/2013 23:59,flash|macos|malware|virus,0,0.500755727,sse,DH,"DC, Ex"
+19631,2/09/2012 3:33,malware|spyware|virus,0,0.420342684,sse,HT,"AT, ES"
+100140,13/09/2015 4:01,malware|spam,0,0.436982781,sse,HT,AT
+44997,5/11/2013 20:17,attack-vector|mobile,0,0.337282598,sse,DH,"Co, ES"
+70589,13/10/2014 16:40,rootkits|virus|virus-removal,0,0.434642941,sse,HT,"AT, ES"
+20871,30/09/2012 19:49,attacks|man-in-the-middle,0,0.260507911,sse,HT,AT
+195251,7/10/2018 15:37,backup|encryption|ransomware,0,0.39588505,sse,DC,"Co, ES"
+14465,1/05/2012 13:44,detection|virus|webserver,0,0.397136211,sse,HT,"AT, ES"
+196600,29/10/2018 4:21,malware|rootkits|spyware|ssd,0,0.46135062,sse,Co*,"DC, Ex"
+106188,22/11/2015 15:27,virus|windows,0,0.458366096,sse,DC,"Ex, ES"
+130358,18/07/2016 8:27,malware,0,0.533025265,sse,HT,"AT, Ex, ES"
+214683,5/08/2019 12:47,antimalware|antivirus|malware|virus,0,0.633795857,sse,Co,"DC, ES"
+135155,28/08/2016 12:10,antivirus,0,0.33570087,sse,DH,"Ex, CS"
+122576,7/05/2016 17:33,javascript|malware|virus,0,0.446285069,sse,Co,"Ex, ES"
+116093,29/02/2016 22:57,drive-by-download|php|spoofing|webserver,0,0.356843591,sse,DC,Ex
+2552,15/03/2011 13:50,malware|virus,0,0.612806737,sse,HT,DC
+76577,21/12/2014 5:32,antimalware|antivirus,0,0.46875,sse,DH,"Ex, ES"
+226556,2020,virus windows-server,0,0.442049623,sse,DH,"DC, Ex, ES"
+233432,2020,ransomware virtualization vmware,0,0.378097057,sse,DH,"Co, Ex"
+126458,8/06/2016 12:34,dvwa,1,0.53417486,sse,HT,ES
+74060,1/12/2014 16:31,sql-injection|web-application,1,0.617311895,sse,DH,"Co, Ex, Er"
+194877,1/10/2018 19:33,javascript|sql-injection,1,0.498802125,sse,Re,"DC, Ex"
+186756,30/05/2018 13:21,php|sql-injection,1,0.537262797,sse,DH,"AT, CS, ES"
+141588,2/11/2016 14:13,penetration-test|sql-injection|web-application,1,0.670009613,sse,DH,"Co, AT"
+119594,6/04/2016 5:27,algorithm|bcrypt|php|sql-injection,1,0.739271581,sse,Re,"Co, Er, AT, ES"
+34498,17/04/2013 17:03,sql-injection|waf|web-application,1,0.523128569,sse,DC,"Ex, ES"
+23734,7/11/2012 16:08,attacks|databases|mongodb|nosql|sql-injection,1,0.477551937,sse,Co,ES
+39530,25/07/2013 7:00,confidentiality|databases|encryption|web-application,1,0.358546019,sse,DC,"Ex, ES"
+200315,24/12/2018 13:10,mysql|php|webserver|xss,1,0.474777281,sse,HT,"DC, Er, AT, Ex, ES"
+177287,10/01/2018 22:10,penetration-test|sqlmap,1,0.717776835,sse,HT,"AT, CS"
+206879,5/04/2019 18:48,python|rest,1,0.372231871,sse,DH,"DC, AT, ES"
+204718,4/03/2019 17:28,ddos|postgresql,1,0.30811286,sse,DH,"Co, ES"
+43294,3/10/2013 17:35,dvwa|mysql|sql-injection,1,0.523247778,sse,HT,"DC, Ex"
+83231,6/03/2015 23:35,injection|mongodb|nosql|penetration-test|python,1,0.505914092,sse,"Re, DC","Er, AT, Ex, CS"
+77039,29/12/2014 16:12,sql-injection,1,0.442049712,sse,DH,Co
+2092,10/02/2011 12:28,appsec|attacks|sql-injection|web-application,1,0.529979765,sse,HT,"AT, CS"
+11083,26/01/2012 19:16,mysql|php|sql-injection,1,0.690635622,sse,Re,"AT, CS, ES"
+60870992,2020,mysql pdo php,1,0.757545114,so,DC,"Er, AT"
+179813,14/02/2018 19:03,documentation|owasp|zap,2,0.516537189,sse,DH,ES
+225305,2020,nikto penetration-test vulnerability-scanners web-scanners,2,0.300356179,sse,Er,"Er, ES"
+88936,10/05/2015 23:21,csrf|usability,3,0.62366426,sse,HT,"AT, ES"
+64215,29/07/2014 13:10,session-management,3,0.572542191,sse,Co,Ex
+133333,9/08/2016 6:59,csrf|web-browser,3,0.659161747,sse,DH*,"Co, ES"
+73090,18/11/2014 6:48,asp.net|csrf|viewstate,3,0.912924707,sse,"DC, Nv",Ex
+196023,19/10/2018 11:53,authorization|csrf|oauth|oauth2,3,0.884935081,sse,DH,DC
+159141,10/05/2017 9:04,csrf|xss,3,0.572024107,sse,DH,"DC, ES"
+2405,5/03/2011 13:26,attacks|cookies|csrf|web-application,3,0.628071964,sse,DH,DC
+66225,27/08/2014 8:08,attack-prevention|csrf|xss,3,0.532835782,sse,DH,"Co, CS"
+147269,4/01/2017 17:11,csrf|web-application,3,0.75474,sse,HT,"AT, ES"
+59411,5/06/2014 6:23,authentication|csrf|rest|web-application,3,0.569233239,sse,HT,"AT, Ex, ES"
+65090,10/08/2014 23:40,arp-spoofing,3,0.372712314,sse,HT,AT
+206782,4/04/2019 10:16,authentication|cookies,3,0.59756875,sse,HT,"Er, AT "
+213737,18/07/2019 23:24,ajax|configuration|csrf|file-upload|router,3,0.378591031,sse,DH,"Co, CS, ES"
+219619,15/10/2019 9:12,authentication|csrf,3,0.703116059,sse,DH,"ES, Ex"
+34350,15/04/2013 0:00,csrf|defense,3,0.643913567,sse,HT,"DC, Ex"
+114840,17/02/2016 5:17,authentication|web-application,3,0.537624359,sse,DH,"Co, ES, AT"
+213938,22/07/2019 15:23,csrf|exploit,3,0.665390611,sse,DC,"Ex, ES"
+55971,16/04/2014 18:44,csrf|tls,3,0.608295143,sse,DH,Co
+87207,30/04/2015 15:13,android|authentication|json|token,3,0.489836037,sse,Co,"Co, ES"
+55876,15/04/2014 19:25,cookies|session-fixation|session-management,3,0.673953712,sse,Co,Ex
+121024,20/04/2016 12:37,attack-prevention|attacks|authentication|challenge-response,3,0.342994213,sse,HT,AT
+15939,12/06/2012 8:38,cookies|xss,3,0.442111909,sse,DH,DC
+52224,25/02/2014 15:40,csrf,3,0.497217923,sse,Co,Ex
+226464,2020,csrf,3,0.517436922,sse,DH,"Ex, ES"
+226945,2020,cors csrf,3,0.842069566,sse,Co,Ex
+41207,25/08/2013 21:36,known-vulnerabilities|operating-systems|windows,4,0.347409606,sse,HT,"Co, ES"
+204213,25/02/2019 3:15,code-execution|php,4,0.371574044,sse,Re,Er
+65883,21/08/2014 12:48,data-leakage,4,0.376004219,sse,Co,"Co, Ex"
+181854,19/03/2018 14:30,directory-traversal|hash|md5|php|url,4,0.286329895,sse,"DC, Er",ES
+191124,7/08/2018 14:18,metasploit|meterpreter|sql-injection,4,0.464034021,sse,HT,"ES, AT"
+109139,28/12/2015 13:33,android|directory-traversal,4,0.402591884,sse,DC,Er
+160443,26/05/2017 11:04,exploit|samba,4,0.41588071,sse,Co,ES
+167297,11/08/2017 16:25,exploit|metasploit|trojan,4,0.320356727,sse,DH,"Co, ES"
+147942,10/01/2017 17:14,apache|http|php|server|webserver,4,0.503511608,sse,DH,"Ex, ES"
+128905,1/07/2016 12:00,attacks|authentication,6,0.32946676,sse,DH,Co
+51069,6/02/2014 21:01,encryption|http|tls|web-application|web-service,6,0.551460981,sse,DH,AT
+142877,17/11/2016 13:03,hpkp|man-in-the-middle,6,0.425294548,sse,DH,"Co, Ex, ES"
+125040,3/06/2016 16:03,jwt|man-in-the-middle|openid-connect,6,0.525361598,sse,Co*,"DC, AT, ES"
+9945,21/12/2011 3:43,certificates|man-in-the-middle|tls|web-browser,6,0.414175123,sse,DH,"DC, Er, Ex"
+59423,5/06/2014 9:32,attacks|client|replay-detection|rsa|tls,6,0.498230189,sse,Co,"Ex, ES"
+151120,12/02/2017 10:09,aes|key|veracrypt,6,0.430221379,sse,Co,"Ex, ES"
+63396,18/07/2014 12:24,cryptography|openvpn,6,0.621557832,sse,DH,"DC, ES, Ex"
+44849,3/11/2013 9:56,http|tls|web-application|web-browser,6,0.264633596,sse,DH,"Co, Ex, AT, ES"
+123136,12/05/2016 21:15,certificates|tls,6,0.505592108,sse,Co,Ex
+82716,28/02/2015 8:49,hash|man-in-the-middle,6,0.471925914,sse,Co,Ex
+89689,20/05/2015 15:21,diffie-hellman|tls,6,0.453363806,sse,"Co, HT","Ex, AT, ES"
+54852,4/04/2014 9:23,attack-prevention|attacks|key-management|ssh,6,0.679847181,sse,Co,"Ex, ES"
+41170,24/08/2013 18:06,certificates|digital-signature|man-in-the-middle|tls,6,0.691052675,sse,HT,"AT, Ex"
+21225,6/10/2012 15:23,arp-spoofing|encryption|web-browser,6,0.487770826,sse,DH,"Co, Ex, ES"
+159545,15/05/2017 16:45,encryption|ransomware,6,0.398315251,sse,Co,Ex
+105205,11/11/2015 3:45,sslstrip|tls,6,0.477287143,sse,"HT, Nv",ES
+158436,30/04/2017 3:16,certificates|man-in-the-middle|tls,6,0.647473097,sse,Co,"Ex, ES"
+198272,23/11/2018 9:41,audit|man-in-the-middle,6,0.557434976,sse,Co,"Ex, ES"
+104630,4/11/2015 20:54,attacks|http|man-in-the-middle|network,6,0.377298802,sse,DH,"Ex, ES"
+86834,25/04/2015 2:16,attacks|authentication|passwords,6,0.488446593,sse,HT,"AT, ES"
+201414,14/01/2019 2:53,api|asp.net|attack-prevention|attacks|rest,6,0.45812574,sse,HT,AT
+17721,27/07/2012 2:05,attack-prevention|man-in-the-middle|tls,6,0.492281884,sse,Co,"DC, Ex, ES"
+117101,10/03/2016 23:56,forward-secrecy|man-in-the-middle|tls,6,0.495547265,sse,DH,"DC, Ex, ES"
+83150,6/03/2015 4:22,web-browser|windows,6,0.412686557,sse,Co,Ex
+123413,16/05/2016 7:29,ftp|sniffing,6,0.474311084,sse,Co,"Co, DC"
+171407,16/10/2017 17:37,passwords|windows-server,6,0.365249574,sse,DC,Ex
+171474,17/10/2017 8:57,encryption|krack|tls,6,0.452528954,sse,"DH, Nv","DC, Ex, ES"
+160010,20/05/2017 14:00,android|gmail|man-in-the-middle|sslstrip,6,0.459567606,sse,DH*,"DC, ES"
+72324,5/11/2014 8:44,hash|password-management|password-policy|passwords|vulnerability,6,0.409408659,sse,DH,"Co, Ex, ES"
+70940,17/10/2014 8:40,known-vulnerabilities|tls|web-browser,6,0.477625877,sse,HT,"Ex, AT, ES"
+5132,10/07/2011 21:37,attack-prevention|attacks|web-browser,6,0.438696176,sse,HT,AT
+227531,2020,certificate-pinning penetration-test zap,6,0.378032416,sse,HT,"Co, AT, ES"
+231622,2020,certificate-pinning tls tls-intercept,6,0.472597927,sse,DH,"DC, Ex, ES"
+59583251,2020,https security,6,0.331464142,so,DH,"Co, Ex, ES"
+192468,28/08/2018 10:42,wifi,8,0.776206732,sse,DH,Co
+195164,5/10/2018 22:00,attack-prevention|aws|cloud-computing|ddos,8,0.493861467,sse,"HT, Nv","AT, ES"
+111308,21/01/2016 4:04,penetration-test,8,0.49822405,sse,HT,"AT, ES"
+133594,11/08/2016 10:58,linux|network|tcp,8,0.387501121,sse,Co,Ex
+24385,22/11/2012 17:17,backdoor|firewalls|metasploit|penetration-test|ports,8,0.497772843,sse,DH,AT
+155180,28/03/2017 22:43,dns|man-in-the-middle,8,0.408249676,sse,DH,"Co, Ex, ES"
+113123,8/02/2016 15:02,ip-spoofing|penetration-test|ssh,8,0.527595878,sse,DH,"Ex, AT"
+90795,4/06/2015 0:18,attack-prevention|attack-vector,8,0.39961049,sse,HT,AT
+106316,23/11/2015 20:52,dns|dnssec|tls,8,0.401529342,sse,Co,"DC, EX"
+13703,12/04/2012 15:41,denial-of-service,8,0.584914804,sse,DH,"AT, ES"
+34298,13/04/2013 1:31,ddos|flooding|tcp,8,0.592480958,sse,HT,"DC, ES"
+144439,5/12/2016 22:29,active-directory|arp-spoofing|man-in-the-middle|smb|smb-signing,8,0.449003637,sse,DH,"DC, AT"
+160199,23/05/2017 13:40,attack-prevention|attacks|ddos|network|web-application,8,0.400652289,sse,Co,"Co, Ex, ES"
+107975,13/12/2015 2:46,attacks|ddos|network|router,8,0.81862092,sse,DH,"DC, AT, ES"
+11233,31/01/2012 18:16,network|penetration-test,8,0.473759592,sse,HT,"AT, ES"
+175714,18/12/2017 16:56,krack|wifi|wpa2,8,0.394609571,sse,Co,Ex
+154975,26/03/2017 20:07,ddos|web-browser|websites,8,0.26026988,sse,Co,"Ex, ES"
+40869,19/08/2013 19:08,attacks|dns,8,0.367987663,sse,DH,"Ex, AT, ES"
+206935,6/04/2019 20:46,ngfw|ransomware|vlans,8,0.483773082,sse,DH,"AT, ES"
+37481,14/06/2013 8:20,http|ip-spoofing|tcp|tls,8,0.519619286,sse,DH,"DC, ES"
+205929,23/03/2019 7:51,man-in-the-middle|openssh|ssh,8,0.630475879,sse,Co,DC
+140518,22/10/2016 6:37,hotspot|mac-spoofing|vulnerability,8,0.454778135,sse,"DH, Nv","DC, ES"
+31511,25/02/2013 21:29,denial-of-service|ike|key-exchange|protocols,8,0.283174187,sse,Co,Ex
+12401,4/03/2012 9:54,authentication|wifi,8,0.539389253,sse,Co,"Ex, ES"
+46289,1/12/2013 21:45,ddos|dns|dns-spoofing,8,0.59697181,sse,Co,Ex
+82413,24/02/2015 12:03,mac-address|network|windows,8,0.485099465,sse,DH,"Co, Ex"
+190986,5/08/2018 5:31,denial-of-service,8,0.463613629,sse,HT,"Ex, AT, ES"
+171454,17/10/2017 3:40,krack|wifi|wpa2,8,0.393438935,sse,Co,"DC, Ex"
+176345,29/12/2017 22:17,attacks|ftp,8,0.303250551,sse,Co,"Co, AT"
+72647,10/11/2014 9:36,ddos|denial-of-service|iptables|waf,8,0.554874003,sse,HT,"Ex, ES"
+26062,27/12/2012 17:56,attack-prevention|denial-of-service|ipv6,8,0.708764493,sse,Co,Ex
+33459,30/03/2013 17:51,attacks|ddos,8,0.557011604,sse,HT,"Ex, ES"
+206634,2/04/2019 14:25,dkim|dmarc|email|spf|spoofing,8,0.47726351,sse,Co,"DC, Co"
+87320,2/05/2015 0:50,captive-portal|chrome|man-in-the-middle|tls,8,0.282880008,sse,Co,"Ex, ES"
+158733,4/05/2017 8:18,network|spoofing,8,0.713984787,sse,DH,"Ex, ES"
+151657,18/02/2017 18:28,deauth-attack|protection|wireless,8,0.514101386,sse,DH,"Co, Ex"
+232301,2020,aircrack-ng airgeddon deauth-attack denial-of-service wifi,8,0.729351759,sse,DC,Ex
+130901,24/07/2016 22:58,buffer-overflow|exploit,9,0.763340175,sse,Co*,"Ex, ES"
+137451,21/09/2016 18:52,stack-overflow,9,0.684049428,sse,DH*,"Co, AT"
+186400,24/05/2018 9:08,attacks|binary-code|exploit|rop|system-compromise,9,0.613928318,sse,DH,"Co, Ex, ES"
+150966,10/02/2017 13:55,c|exploit|exploit-development,9,0.635672808,sse,DC,"Er, Ex"
+157946,23/04/2017 11:28,injection,9,0.332105845,sse,Co*,"Ex, ES, CS"
+155476,1/04/2017 20:11,exploit|exploit-development|stagefright,9,0.676713824,sse,DC,"Ex, AT, ES"
+137541,22/09/2016 13:32,c|exploit|segmentation,9,0.829986036,sse,DC,Ex
+146517,27/12/2016 11:51,exploit|string,9,0.404039443,sse,HT,"AT, ES"
+176330,29/12/2017 16:41,buffer-overflow|linux|shellcode,9,0.699393392,sse,DC,SA
+155844,6/04/2017 14:18,buffer-overflow|exploit-development|terminal,9,0.638646841,sse,DC,Ex
+151023,10/02/2017 22:38,attacks|xss,10,0.421674877,sse,DH,"DC, Ex"
+52870,7/03/2014 3:05,javascript|xss,10,0.785238743,sse,HT,"DC, ES"
+174684,30/11/2017 21:40,content-security-policy|man-in-the-middle,10,0.61291194,sse,DH,"Co, AT, ES"
+103058,18/10/2015 18:14,chrome|javascript|xss,10,0.754443347,sse,DH,"AT, ES"
+20661,25/09/2012 12:33,attack-prevention|code-review|source-code,10,0.368055969,sse,Re,"DC, Ex"
+68304,26/09/2014 9:51,directory-traversal|penetration-test,10,0.268282413,sse,HT,Ex
+103957,28/10/2015 19:44,web-application|xss,10,0.993309796,sse,DH,"DC, ES"
+110308,11/01/2016 21:00,web-application|xss,10,0.826190948,sse,DH,"DC, ES"
+193372,10/09/2018 9:23,javascript|xss,10,0.599419475,sse,DH,Co
+173162,9/11/2017 23:02,penetration-test|proxy|ruby|web-application|zap,10,0.479473948,sse,DH*,"Co, ES"
+178597,28/01/2018 11:47,clickjacking,10,0.671099067,sse,HT,"DC, ES"
+58586,23/05/2014 9:34,xss,10,0.709207952,sse,Re,SA
+88980,11/05/2015 13:41,chrome|html|web-application|web-browser|xss,10,0.421474665,sse,HT,"AT, ES"
+57832,13/05/2014 7:37,attack-prevention|file-upload|javascript,10,0.636225522,sse,HT,"AT, ES"
+207474,16/04/2019 0:11,clickjacking|web-application|webserver,10,0.588461816,sse,"DH, Re",Er
+12568,9/03/2012 22:08,email|xss,10,0.410426021,sse,DH,Co
+37362,12/06/2013 13:30,javascript|terminology|xss,10,0.542226791,sse,DH* ,Ex
+126142,5/06/2016 4:49,javascript|jwt|single-page-app|web-application|xss,10,0.373562306,sse,DH,"Er, CS, AT, ES"
+116331,3/03/2016 1:39,svg|xml|xxe,10,0.433155775,sse,DH,"DC, ES"
+38037,26/06/2013 8:53,tls|web-application|web-browser,10,0.423613071,sse,DH,Ex
+120938,19/04/2016 10:11,jquery|xss,10,0.521003187,sse,DH,"AT, ES"
+51994,21/02/2014 9:20,xss,10,0.629451692,sse,Co,"Ex, ES"
+121892,29/04/2016 11:27,web-application|webserver|xss,10,0.411308169,sse,HT,"AT, ES"
+215042,9/08/2019 14:35,javascript|xss,10,0.779613793,sse,DH,"DC, AT, CS"
+60662,9/06/2014 14:34,django|javascript|xss,10,0.895761788,sse,DC,"SA, ES"
+113318,10/02/2016 16:37,vulnerability|xss,10,0.517136872,sse,Co,Ex
+165716,21/07/2017 7:34,encoding|url|xss,10,0.67828995,sse,Co,Ex
+162940,28/06/2017 5:25,bug-bounty|directory-traversal|encoding|vulnerability,10,0.435141325,sse,DC*,Ex
+167173,9/08/2017 23:05,url|web-application,10,0.625902891,sse,DH,"DC, Ex"
+151362,15/02/2017 8:02,attacks|exploit|penetration-test|web-application|web-browser,10,0.33209154,sse,"DC, Er","Ex, ES"
+184319,22/04/2018 19:57,javascript|xss,10,0.368016183,sse,DH*,Co
+36804,1/06/2013 23:29,attack-prevention|attacks|javascript|web-application|web-browser,10,0.489498466,sse,DH,CS
+111975,28/01/2016 3:20,javascript|malware|web-browser,10,0.397832721,sse,Co,Ex
+176897,6/01/2018 13:17,xss,10,0.467667133,sse,HT,"DC, AT"
+79744,21/01/2015 17:16,sql-injection|vulnerability|web-application,10,0.410251558,sse,DH,Ex
+197292,9/11/2018 1:08,reflected-xss|xss|zap,10,0.67660439,sse,DC,"Ex, CS"
+224864,2020,internet web-browser,10,0.313426703,sse,Co,"Ex, ES"
+225415,2020,xss zap,10,0.506368637,sse,DH,"DC, Ex"
+60243316,2020,angular css html javascript typescript,10,0.949236512,so,DC,"Ex, CS"
+117996,19/03/2016 22:47,known-vulnerabilities|vulnerability|web-application,11,0.644797504,sse,Co,ES
+103226,20/10/2015 12:21,buffer-overflow|exploit|source-code,11,0.503822386,sse,DH,"Co, ES"
+174812,3/12/2017 19:34,exploit|image|linux,11,0.459423065,sse,HT,AT
+42756,21/09/2013 19:26,attacks|detection|incident-response|web-application,11,0.451531529,sse,HT,"Ex, AT, ES"
+77522,6/01/2015 1:18,firewalls|waf,11,0.546933472,sse,Co*,"DC, Ex"
+176737,5/01/2018 0:47,linux|meltdown|spectre,11,0.709685028,sse,DH,Co
+203981,21/02/2019 6:35,attacks,11,0.624613881,sse,HT,"AT, ES"
+201163,10/01/2019 5:14,antivirus|defense|malware,11,0.499851793,sse,Co,"Ex, AT"
+69453,11/10/2014 16:17,authentication|hash,11,0.339923829,sse,Co,"Ex, ES"
+116137,1/03/2016 12:48,glibc|vulnerability,11,0.608541429,sse,DH,Co
+154685,23/03/2017 12:14,risk-classification|xss,11,0.696653366,sse,HT,"ES, Ex"
+103407,22/10/2015 12:28,pci-dss,11,0.658527017,sse,DH,"Ex, AT, ES"
+177448,12/01/2018 17:21,assembly|c|exploit|shellcode,11,0.526207089,sse,DC,Co
+35264,2/05/2013 19:01,denial-of-service,11,0.665146351,sse,Co,Ex
+21205,5/10/2012 21:21,audit|penetration-test,11,0.933101118,sse,Co,"Ex, ES"
+157827,21/04/2017 18:47,android|malware|permissions,11,0.420132071,sse,DH,"DC, ES"
+222340,5/12/2019 19:11,defense|penetration-test|physical,11,0.851627827,sse,DH,"AT, ES"
+212377,24/06/2019 23:37,cve|cvss|nist,11,0.605557084,sse,HT,"AT, ES"
+245,12/11/2010 16:48,antivirus|webserver,11,0.547528565,sse,DH,"Ex, ES"
+196557,28/10/2018 11:02,android|network|smart-tv|vulnerability,11,0.606746674,sse,Co,"Ex, ES"
+176807,5/01/2018 14:11,meltdown|spectre|vulnerability,11,0.823996425,sse,DH,Co
+5951,4/08/2011 15:09,attack-prevention|operating-systems|powershell|windows,11,0.636908531,sse,Co,DC
+84082,19/03/2015 7:32,attacks|smartphone,11,0.363221228,sse,DH,"Co, Ex"
+187502,11/06/2018 0:32,bash|linux|path-injection|privilege-escalation|sudo,11,0.438918769,sse,Co*,"Co, Ex, ES"
+12164,25/02/2012 21:37,attacks|detection|ids,11,0.607788324,sse,Co,Ex
+133041,5/08/2016 11:17,attack-prevention|attacks|badusb|usb|usb-drive,11,0.639798403,sse,Co,"Ex, AT, ES"
+4213,21/05/2011 19:51,network|wifi,11,0.494097263,sse,Co,Ex
+136116,7/09/2016 11:34,directory-traversal|python|web-application,11,0.316049725,sse,DC,"Ex, AT, ES"
+161328,6/06/2017 18:27,assembly|malware|wannacry,11,0.557560205,sse,DH*,Ex
+154312,19/03/2017 22:01,exploit|vulnerability|vulnerability-markets|zero-day,11,0.879535735,sse,DH*,"DC, Ex, ES"
+14305,29/04/2012 14:21,kali-linux,11,0.574062109,sse,DH,"Co, ES"
+216020,27/08/2019 11:02,penetration-test|web-application,11,0.494286239,sse,DC,Ex
+398,16/11/2010 22:46,ethics|incident-response,11,0.689253271,sse,DH,"DC, AT"
+214091,25/07/2019 10:27,sdlc|waf,11,0.675626814,sse,Co*,"DC, Ex"
+200578,30/12/2018 16:42,detection|firmware|malware|protection,11,0.726513207,sse,Co,Ex
+17316,17/07/2012 16:10,cryptography|databases|encryption,11,0.489751399,sse,HT,"AT, Ex"
+139547,12/10/2016 14:57,domain|epp|protection|protocols|whois,11,0.342309326,sse,DH,"DC, Ex, ES"
+9230,27/11/2011 19:00,defense|linux|privileged-account,11,0.59468168,sse,HT,ES
+162844,27/06/2017 9:18,asvs|denial-of-service|web-service,11,0.353315532,sse,DH,AT
+42278,11/09/2013 19:10,corporate-policy|terminology,11,0.740540862,sse,Co,"Co, ES"
+171891,22/10/2017 12:17,attacks|machine-learning|research|threats,11,0.591074169,sse,Co,"ES, Ex"
+162991,28/06/2017 15:53,apache|cve,11,0.472853541,sse,DH,DC
+104543,4/11/2015 5:28,confidentiality|integrity|replay-detection|threat-modeling,11,0.593725979,sse,Co,Ex
+33581,1/04/2013 22:45,attacks|gsm|phone,11,0.283758342,sse,DH,"DC, Ex"
+106087,21/11/2015 3:26,ddos|incident-response,11,0.646613836,sse,HT,AT
+128139,24/06/2016 10:13,antivirus|man-in-the-middle|trojan,11,0.444096684,sse,DC,"Ex, ES"
+34965,28/04/2013 10:42,arp-spoofing|http|man-in-the-middle|tcp,11,0.440186054,sse,DH,DC
+96248,7/08/2015 19:53,malware|trojan,11,0.525220275,sse,DH,"Co, ES"
+117,12/11/2010 0:36,apache|attacks|ids,11,0.213262409,sse,HT,"Co, AT, ES"
+61325,18/06/2014 8:20,threats|vulnerability,11,0.612720668,sse,DH,"DC, ES"
+188237,21/06/2018 22:23,vulnerability|vulnerability-assessment|vulnerability-management,11,0.443472713,sse,DH,"Co, ES"
+134666,23/08/2016 12:28,android,11,0.659179032,sse,DH,"Co, ES"
+17487,21/07/2012 18:24,injection|intrusion|smartcard,11,0.460604429,sse,DH,ES
+27770,9/01/2013 16:23,disk-encryption|truecrypt|usb-drive,11,0.492832571,sse,DH,"DC, Ex, AT"
+78688,8/01/2015 12:18,keyloggers|python|virus,11,0.476043612,sse,DH,"Co, Ex, ES"
+55381,10/04/2014 10:52,dns-domain,11,0.580898046,sse,"DH, Nv","Co, Ex"
+82945,3/03/2015 18:31,client-side|encryption|integrity|penetration-test,11,0.603836358,sse,HT,"DC, AT, ES"
+82945,3/03/2015 18:31,client-side|encryption|integrity|penetration-test,11,0.603836358,sse,HT,"DC, AT, ES"
+131598,1/08/2016 13:48,mobile|password-management,11,0.389862239,sse,DH,"ES, AT"
+8919,15/11/2011 18:22,boot|file-system|operating-systems|virus|windows,11,0.525515676,sse,DH,"Er, Co"
+19790,5/09/2012 13:59,penetration-test|vulnerability-scanners,11,0.706385732,sse,HT,"ES, AT"
+36418,24/05/2013 6:24,dns|exploit|tls,11,0.400223821,sse,Co,Co
+65153,11/08/2014 18:20,physical|virus,11,0.557167888,sse,DH,"Co, ES"
+154840,24/03/2017 19:50,malware|passwords|ransomware,11,0.48370561,sse,DH,"Co, Ex, ES, AT"
+1225,19/12/2010 19:26,known-vulnerabilities|professional-education|research,11,0.7306723,sse,DH,ES
+93171,5/07/2015 18:49,attack-prevention|attack-vector|hardening|windows,11,0.589837492,sse,DH,"Co, ES, AT"
+154840,24/03/2017 19:50,malware|passwords|ransomware,11,0.48370561,sse,DH,"Co, Ex, ES"
+194004,18/09/2018 16:58,operating-systems|risk|updates|virtualization,11,0.687552512,sse,DH,"DC, Ex"
+189548,13/07/2018 23:03,web-application|wordpress,11,0.485742778,sse,"DH, Nv","AT, ES"
+154435,20/03/2017 21:39,google|search-engines|vulnerability|xss,11,0.607363939,sse,DH,Ex
+26226,30/12/2012 22:35,exploit|network|penetration-test,11,0.456538945,sse,Co,"Ex, ES"
+176641,4/01/2018 5:38,meltdown|risk-management,11,0.613726735,sse,DH,"AT, ES"
+194228,21/09/2018 16:28,attacks|man-in-the-middle|port-knocking|surveillance,11,0.456310302,sse,HT,"DC, Ex"
+181259,10/03/2018 8:48,backdoor|hardware|ibm,11,0.949546993,sse,DH,"DC, ES"
+108602,20/12/2015 12:01,backdoor|firewalls|juniper,11,0.358590961,sse,Co,Ex
+184639,26/04/2018 12:15,encryption|openssl|php,11,0.23130025,sse,Re,"Er, ES,AT"
+135492,31/08/2016 19:37,buffer-overflow|driver|javascript|microsoft|threat-mitigation,11,0.42434442,sse,DH,"Co, ES"
+185923,16/05/2018 17:07,vulnerability,11,0.823923111,sse,HT,"AT, ES"
+199799,15/12/2018 8:19,email|multi-factor|sms,11,0.286836147,sse,DH,Co
+100761,21/09/2015 12:44,known-vulnerabilities|vulnerability|zero-day,11,0.910440147,sse,DH,SA
+133041,5/08/2016 11:17,attack-prevention|attacks|badusb|usb|usb-drive,11,0.639798403,sse,Co,"Ex, AT, ES"
+176765,5/01/2018 6:33,meltdown|spectre,11,0.877526522,sse,Co,"Er, Ex"
+186613,28/05/2018 9:15,attack-vector|multi-factor|one-time-password|physical-access|yubikey,11,0.324873716,sse,DH,Co
+17638,25/07/2012 13:15,detection|ids|malware|p2p|virus,11,0.414177269,sse,HT,"AT, ES"
+137334,20/09/2016 19:12,kernel|kernel-patch-protection|linux|package-manager|ubuntu,11,0.550601363,sse,DH,"DC, AT, ES"
+85857,13/04/2015 3:02,whitelist,11,0.361385226,sse,Co,AT
+13375,2/04/2012 11:16,data-leakage|hardware,11,0.774937153,sse,DH*,ES
+177099,8/01/2018 21:32,meltdown|spectre,11,0.713080227,sse,DH,"DC, Ex"
+32288,8/03/2013 20:28,attack-vector|javascript|malware,11,0.345923185,sse,DH,"Co, ES"
+37820,21/06/2013 6:48,attack-prevention|file-encryption|integrity|whitebox,11,0.56501019,sse,HT,DC
+16564,28/06/2012 5:09,linux|windows,11,0.584918916,sse,Co,"DC, Ex, ES"
+75848,12/12/2014 17:33,data-leakage|databases|passwords|security-theater,11,0.524990976,sse,DH,"DC, Ex"
+97313,20/08/2015 0:52,asp.net|php|web-application|webserver,11,0.4910613,sse,DH,"Co, Ex"
+166379,30/07/2017 16:52,sql-injection|xss,11,0.786313236,sse,DH,"Ex, ES"
+1362,27/12/2010 19:10,attacks|intrusion|network|unix,11,0.47772792,sse,DH,"DC, ES"
+148466,15/01/2017 21:22,ddos|nginx,11,0.394004226,sse,HT,AT
+144635,7/12/2016 13:17,ransomware,11,0.458750427,sse,Co,"DC, Ex"
+116367,3/03/2016 10:24,malware|virus,11,0.351735234,sse,Co,Ex
+730,22/11/2010 20:38,authentication|exploit|network,11,0.417843252,sse,DH,ES
+103408,22/10/2015 12:31,attack-prevention|authentication|dictionary|user-names,11,0.369523674,sse,DH,"DC, ES"
+179261,6/02/2018 20:51,false-alarm|ransomware|windows-7,11,0.367595315,sse,DH,"DC, Ex"
+129270,5/07/2016 22:02,firewalls|network|vlans,11,0.550617993,sse,DH,AT
+20928,1/10/2012 20:16,databases|penetration-test|professional-education,11,0.4333933,sse,"DH, Nv","AT, ES"
+245,12/11/2010 16:48,antivirus|webserver,11,0.547528565,sse,DH,"Ex, ES"
+62420,3/07/2014 18:57,code-signing|man-in-the-middle|timestamp|tls,11,0.360568583,sse,DH,"DC, Ex"
+55380,10/04/2014 10:36,heartbleed|openssl,11,0.385360122,sse,DH,DC
+152537,28/02/2017 3:42,account-security|attacks|incident-response|server,11,0.651777029,sse,HT,AT
+17172,13/07/2012 9:15,known-vulnerabilities|virus|zero-day,11,0.419562101,sse,Co,"Co, ES"
+101637,1/10/2015 14:27,android|attack-prevention|usb,11,0.392591387,sse,DH,Co
+168932,6/09/2017 21:18,exploit|usb,11,0.360441059,sse,DH,"Co, Ex, ES"
+162374,20/06/2017 13:15,denial-of-service|wifi,11,0.484999895,sse,HT,"Ex, AT"
+83403,9/03/2015 20:33,tls,11,0.422999859,sse,DH,Ex
+12428,5/03/2012 12:00,appsec|automated-testing|code-review|java,11,0.626257241,sse,DH,AT
+11662,13/02/2012 17:43,encryption,11,0.413870901,sse,Co*,"Ex, ES"
+114661,15/02/2016 9:30,amazon|penetration-test|terminology,11,0.867746592,sse,Co,"Ex, ES"
+75996,15/12/2014 10:41,antivirus|code-signing|malware,11,0.443389207,sse,Co,"Co, Ex"
+91641,15/06/2015 6:18,ddos|risk-management,11,0.858916342,sse,DH,AT
+67961,23/09/2014 7:29,vulnerability,11,0.57653594,sse,DH,Co
+151484,16/02/2017 15:43,cryptography|hardware|iot|privacy|software,11,0.445089549,sse,HT*,"Ex, ES"
+6998,9/09/2011 2:15,fuzzing,11,0.46044147,sse,HT,ES
+53841,21/03/2014 14:49,key-management,11,0.45787999,sse,DH,Co
+170523,2/10/2017 15:25,esapi|java|jsp|owasp,11,0.470934004,sse,DH,"DC, ES, Ex"
+209504,4/05/2019 10:38,integrity|virtualization|vulnerability,11,0.722898841,sse,Co,"Ex, ES"
+5067,7/07/2011 16:29,automated-testing|databases|penetration-test|tools,11,0.463979483,sse,HT,ES
+107498,7/12/2015 19:35,professional-education,11,0.815992415,sse,HT,ES 
+149871,30/01/2017 18:25,ajax|json|xss,11,0.507477641,sse,DH,"Ex, ES"
+151037,11/02/2017 1:39,ddos|web-hosting,11,0.581090212,sse,DH,"Ex, AT"
+60815,11/06/2014 15:04,metrics|risk-analysis|risk-management|secure-coding,11,0.772023737,sse,Co,"Er, ES"
+126936,13/06/2016 23:04,api|penetration-test|rest,11,0.399901807,sse,"HT, Nv","ES, AT"
+143221,21/11/2016 19:06,attacks|directory-traversal|php|web-application,11,0.474400669,sse,DH,"Co, Ex, AT"
+31306,22/02/2013 4:38,iso27000|penetration-test|professional-education,11,0.912549675,sse,DH,Co
+158731,4/05/2017 7:34,exploit|javascript|sudo,11,0.467957735,sse,DH,"DC, Ex"
+30919,14/02/2013 15:24,attack-prevention|attacks|http|web-application,11,0.362641245,sse,DH,"DC, AT"
+84139,19/03/2015 19:31,malware|operating-systems|patching|web-application|zero-day,11,0.702047586,sse,DH,"Ex, ES"
+131074,26/07/2016 15:30,attack-vector|databases|opensource|xss,11,0.463557899,sse,DH,"DC, ES"
+137140,19/09/2016 1:48,wireless,11,0.481764883,sse,Co,"Ex, ES"
+5266,13/07/2011 19:51,appsec|penetration-test|web-application,11,0.632466912,sse,HT,"AT, ES"
+39925,1/08/2013 20:39,compression|exploit|http|tls,11,0.300960153,sse,HT*,"Ex, ES"
+202355,28/01/2019 15:00,network-scanners|ssh,11,0.495131135,sse,DH,"Co, ES"
+25530,17/12/2012 9:55,man-in-the-middle|network|nonce|p2p,11,0.480949044,sse,DH,Co
+135465,31/08/2016 15:41,malware|network|ports,11,0.368382961,sse,DH,"Co, Ex"
+36909,4/06/2013 3:26,client-side|penetration-test,11,0.54687959,sse,HT*,AT
+120711,16/04/2016 23:41,attack-prevention|attack-vector|attacks|nmap|ports,11,0.461914778,sse,DH,Ex
+119165,1/04/2016 1:11,apache|malware|url-redirection,11,0.419511139,sse,DC,"Ex, AT"
+74153,2/12/2014 21:47,authentication|object-injection|php,11,0.28992337,sse,HT,"Ex, ES"
+55460,10/04/2014 21:14,antimalware|antivirus,11,0.447118342,sse,DH,Co
+5366,17/07/2011 0:31,appsec|linux|penetration-test|windows,11,0.481581509,sse,DH*,Co
+68214,25/09/2014 17:06,bash|shellshock|windows,11,0.381613046,sse,DH,Co
+149178,23/01/2017 11:00,password-cracking|wifi|wps,11,0.345755041,sse,Co,Ex
+3879,17/05/2011 7:25,malware|web-application|web-browser|web-service,11,0.381807834,sse,DH,AT
+200900,6/01/2019 13:39,key-management|payment|payment-gateway|vulnerability|web-application,11,0.44787243,sse,DH,Ex
+3584,5/05/2011 12:39,attack-prevention|budget|business-risk,11,0.860331416,sse,HT,"AT, ES"
+118344,23/03/2016 13:29,denial-of-service,11,0.304143339,sse,DH,Ex
+169291,12/09/2017 16:28,exploit-development,11,0.349287629,sse,"Co, Nv",Ex
+133456,10/08/2016 7:28,ddos|denial-of-service,11,0.489955097,sse,Co,Co
+175722,18/12/2017 19:46,asp.net|iis,11,0.32283935,sse,DH,AT
+174732,1/12/2017 15:20,javascript|malware|virus|web-browser,11,0.502866983,sse,DH,"Co, Ex"
+82189,20/02/2015 22:37,xss,11,0.334584296,sse,DH,"DC, Ex"
+19302,27/08/2012 10:49,attacks|nfc,11,0.727492571,sse,DH,ES
+97892,27/08/2015 7:14,csrf|django|tls,11,0.376104832,sse,DH,"Co, ES"
+181312,11/03/2018 15:47,backdoor|hardware|ibm,11,0.772648573,sse,HT,AT
+13464,4/04/2012 14:14,ddos|dns|webserver,11,0.545966744,sse,DH,Ex
+4524,12/06/2011 13:40,attacks|honeypot|research,11,0.615109742,sse,Co,ES
+42500,2013,security-theater,11,0.462569445,sse,Co,"Ex, ES"
+205428,2019,owasp owasp-bwa,11,0.545780778,sse,DH,Ex
+130786,2016,exploit rootkits terminology,11,0.746306539,sse,DH,"Ex, ES"
+15641,2012,cisco ddos firewalls linux,11,0.382872283,sse,DH,"AT, Ex"
+107374,2015,authentication hash one-time-pad sha2,11,0.396276623,sse,DC,"Co, Ex, CS"
+126148,2016,hardware malware windows windows-10,11,0.560308397,sse,HT,"AT, ES"
+10292,2012,buffer-overflow known-vulnerabilities linux research windows,11,0.524769306,sse,Co,"Co, Ex, ES"
+167401,2017,metasploit nmap penetration-test,11,0.408095151,sse,HT,ES
+20166,2012,aes encryption wpa2,11,0.608124912,sse,DH,"Ex, ES"
+132960,2016,encryption wifi,11,0.392684609,sse,Co,"Ex, ES"
+155161,2017,cve web-application,11,0.836425662,sse,DH,"AT, ES"
+55061,2014,attack-prevention virus,11,0.349154949,sse,Co,"Ex, ES"
+31204,2013,databases defense exploit hardening,11,0.78,sse,"Co, Nv", ES
+225881,2020,excel injection office windows,11,0.334286064,sse,DC,"SA, ES"
+225262,2020,xss,11,0.508634269,sse,DH,"Co, Ex, ES"
+233901,2020,exfiltration ransomware,11,0.598778486,sse,Co,"Ex, ES"
+45808,20/11/2013 19:05,hash,12,0.584034383,sse,Co,"DC, Ex, ES"
+76809,24/12/2014 21:56,cryptography|csrf|php,12,0.269833088,sse,DH,"DC, AT, Ex, ES"
+44018,17/10/2013 15:38,passwords,12,0.406278372,sse,DH,Ex

@@ -1,0 +1,14 @@
+topic,Reputation
+Brute-force / Timing Attacks (T13),1.0
+Vulnerability Theory (T12),0.5929730319919807
+Cross-site Scripting (T11),0.8351632182109547
+General Memory Errors (T10),0.620627631252059
+Network Attacks (T9),0.07152087925619766
+Resource Leaks (T8),0.4881463840030687
+Encryption Errors (T7),0.5112408115059695
+Synchronisation Errors (T6),0.8788587472851496
+File-Related Vulnerabilities (T5),0.4272095623660206
+Cross-site Request Forgery (T4),0.28312853684853023
+Vulnerability Testing (T3),0.005078344815872273
+SQL Injection (T2),0.926755004332568
+Malwares (T1),0.0

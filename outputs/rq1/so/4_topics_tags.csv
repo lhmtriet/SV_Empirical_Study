@@ -1,0 +1,66 @@
+topic,tags,score
+Vulnerability Theory (T12),security,0.024242938169405898
+Vulnerability Theory (T12),memory-leaks,0.01696137924145698
+Vulnerability Theory (T12),php,0.013889012453926495
+Vulnerability Theory (T12),java,0.009375160438391943
+Vulnerability Theory (T12),c,0.007834294791528147
+Vulnerability Testing (T3),memory-leaks,0.021373159259827034
+Vulnerability Testing (T3),java,0.006793396445812577
+Vulnerability Testing (T3),segmentation-fault,0.004872483365720649
+Vulnerability Testing (T3),c#,0.004456797370947578
+Vulnerability Testing (T3),c++,0.004430499619584496
+Synchronisation Errors (T6),deadlock,0.020637703029192576
+Synchronisation Errors (T6),multithreading,0.008480134986180022
+Synchronisation Errors (T6),java,0.006494912000218355
+Synchronisation Errors (T6),race-condition,0.005978459728984733
+Synchronisation Errors (T6),memory-leaks,0.004080044202464019
+SQL Injection (T2),php,0.041724027620325
+SQL Injection (T2),sql-injection,0.03341920060077906
+SQL Injection (T2),mysql,0.027758098690603385
+SQL Injection (T2),sql,0.022857233884608044
+SQL Injection (T2),security,0.012427009597956276
+Resource Leaks (T8),memory-leaks,0.08809695897803858
+Resource Leaks (T8),android,0.01692717502943798
+Resource Leaks (T8),java,0.01536938858440343
+Resource Leaks (T8),ios,0.012431179798981559
+Resource Leaks (T8),c++,0.012038320041625966
+Network Attacks (T9),security,0.002479987672045027
+Network Attacks (T9),ddos,0.0023119212313625925
+Network Attacks (T9),spoofing,0.001263283440780706
+Network Attacks (T9),php,0.0010968964958983866
+Network Attacks (T9),memory-leaks,0.0009135480919268926
+Malwares (T1),malware,0.003159911348734404
+Malwares (T1),virus,0.0025235439193469055
+Malwares (T1),php,0.002380310670417124
+Malwares (T1),wordpress,0.002100276605599818
+Malwares (T1),security,0.0019503945826710623
+General Memory Errors (T10),segmentation-fault,0.09935581071735368
+General Memory Errors (T10),c,0.07658160561137585
+General Memory Errors (T10),c++,0.058906216446711714
+General Memory Errors (T10),memory-leaks,0.04681386919025211
+General Memory Errors (T10),infinite-loop,0.01557683211198614
+File-Related Vulnerabilities (T5),segmentation-fault,0.007885060192874624
+File-Related Vulnerabilities (T5),c,0.0044637170759094106
+File-Related Vulnerabilities (T5),python,0.004288854700744654
+File-Related Vulnerabilities (T5),memory-leaks,0.003806599322693805
+File-Related Vulnerabilities (T5),php,0.0033716496833419004
+Encryption Errors (T7),security,0.007089303669364439
+Encryption Errors (T7),ssl,0.002568383399943349
+Encryption Errors (T7),php,0.0021399922245225757
+Encryption Errors (T7),encryption,0.0018558157904053094
+Encryption Errors (T7),https,0.0014790464310325557
+Cross-site Scripting (T11),xss,0.031053178275353577
+Cross-site Scripting (T11),javascript,0.02282258905083111
+Cross-site Scripting (T11),security,0.015924727862728916
+Cross-site Scripting (T11),php,0.01584730795399215
+Cross-site Scripting (T11),html,0.011224065214407672
+Cross-site Request Forgery (T4),csrf,0.04199217538356797
+Cross-site Request Forgery (T4),security,0.014260258821750046
+Cross-site Request Forgery (T4),php,0.013967394620612444
+Cross-site Request Forgery (T4),django,0.013421624131224323
+Cross-site Request Forgery (T4),ajax,0.008562681604850542
+Brute-force / Timing Attacks (T13),memory-leaks,0.0033870283945815803
+Brute-force / Timing Attacks (T13),security,0.0013626765879687366
+Brute-force / Timing Attacks (T13),java,0.0012232159373350062
+Brute-force / Timing Attacks (T13),segmentation-fault,0.0010673926632184668
+Brute-force / Timing Attacks (T13),php,0.001032430836420852

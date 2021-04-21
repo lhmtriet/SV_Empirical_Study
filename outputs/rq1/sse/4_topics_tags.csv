@@ -1,0 +1,66 @@
+topic,tags,score
+Vulnerability Theory (T12),malware,0.04097385253726436
+Vulnerability Theory (T12),penetration-test,0.02998793335146876
+Vulnerability Theory (T12),exploit,0.027542217494736728
+Vulnerability Theory (T12),web-application,0.02711118363873327
+Vulnerability Theory (T12),vulnerability,0.02417684888678473
+Vulnerability Testing (T3),penetration-test,0.005398174569739225
+Vulnerability Testing (T3),malware,0.004492745769964593
+Vulnerability Testing (T3),web-application,0.0031157866038996306
+Vulnerability Testing (T3),antivirus,0.0028513951429377554
+Vulnerability Testing (T3),vulnerability,0.0027534708816118816
+Synchronisation Errors (T6),man-in-the-middle,0.0007794611254673934
+Synchronisation Errors (T6),encryption,0.00048248048345723196
+Synchronisation Errors (T6),attacks,0.0004478893367256773
+Synchronisation Errors (T6),tls,0.0003954870474561505
+Synchronisation Errors (T6),cryptography,0.0003230360915192519
+SQL Injection (T2),sql-injection,0.023670813296176537
+SQL Injection (T2),php,0.009112837554899946
+SQL Injection (T2),mysql,0.007785431096285278
+SQL Injection (T2),web-application,0.006213299064041188
+SQL Injection (T2),xss,0.004495307174546766
+Resource Leaks (T8),android,0.0014909077129203626
+Resource Leaks (T8),malware,0.000555239476672028
+Resource Leaks (T8),java,0.0005368356448436344
+Resource Leaks (T8),exploit,0.0004389164380940329
+Resource Leaks (T8),mobile,0.00040946097112519214
+Network Attacks (T9),network,0.013646488174457577
+Network Attacks (T9),man-in-the-middle,0.012152037731097963
+Network Attacks (T9),ddos,0.012026000589412222
+Network Attacks (T9),attacks,0.010046107237106668
+Network Attacks (T9),denial-of-service,0.009133312977689547
+Malwares (T1),malware,0.034813335106916775
+Malwares (T1),virus,0.01987248427787313
+Malwares (T1),antivirus,0.010642026414326319
+Malwares (T1),windows,0.0070692965272026636
+Malwares (T1),antimalware,0.005667290006823072
+General Memory Errors (T10),buffer-overflow,0.013636160489093092
+General Memory Errors (T10),exploit,0.008859184340564801
+General Memory Errors (T10),c,0.004354803971937268
+General Memory Errors (T10),exploit-development,0.0035170028140928252
+General Memory Errors (T10),linux,0.0022702088031223712
+File-Related Vulnerabilities (T5),exploit,0.00580766951137306
+File-Related Vulnerabilities (T5),malware,0.004507200907716363
+File-Related Vulnerabilities (T5),linux,0.004051051953157185
+File-Related Vulnerabilities (T5),php,0.003533555020836811
+File-Related Vulnerabilities (T5),penetration-test,0.0030911510052607856
+Encryption Errors (T7),tls,0.020401830783555987
+Encryption Errors (T7),man-in-the-middle,0.01994860752731588
+Encryption Errors (T7),encryption,0.007026784991035207
+Encryption Errors (T7),authentication,0.005722931806981071
+Encryption Errors (T7),attacks,0.005106085506327282
+Cross-site Scripting (T11),xss,0.04471889718502169
+Cross-site Scripting (T11),web-application,0.01728028133350055
+Cross-site Scripting (T11),javascript,0.017068375566802477
+Cross-site Scripting (T11),web-browser,0.006911576060974321
+Cross-site Scripting (T11),html,0.006110845148764348
+Cross-site Request Forgery (T4),csrf,0.021765435983398383
+Cross-site Request Forgery (T4),web-application,0.011638601224050386
+Cross-site Request Forgery (T4),xss,0.007508895513122744
+Cross-site Request Forgery (T4),cookies,0.006742925718612116
+Cross-site Request Forgery (T4),authentication,0.004520776314141902
+Brute-force / Timing Attacks (T13),hash,0.0027486892147776955
+Brute-force / Timing Attacks (T13),passwords,0.002242560640540869
+Brute-force / Timing Attacks (T13),denial-of-service,0.001390418098330201
+Brute-force / Timing Attacks (T13),attacks,0.0013398226816169788
+Brute-force / Timing Attacks (T13),brute-force,0.0011242659151089979

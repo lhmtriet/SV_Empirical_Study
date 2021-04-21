@@ -1,0 +1,386 @@
+postid,year,tags,topic,score,source,question_label,answer_label
+28108011,2015-01-23 10:38:34.957 UTC,android|facebook|review|upload|virus,0,0.465264618,so,DC,"SA, ES"
+50127483,2018-05-02 05:09:34.47 UTC,client-side-attacks|dangerous-request|drupal|javascript,0,0.326513737,so,HT,CS
+23411188,2014-05-01 15:44:41.02 UTC,ftp|html|javascript|malware|web,0,0.382707745,so,HT,AT 
+43211850,2017-04-04 15:42:58.007 UTC,malware|obfuscation|php|security|web,0,0.455196619,so,HT,"AT, ES"
+53345920,2018-11-16 21:52:16.773 UTC,mysql|node.js|sql-injection,1,0.785678327,so,Dc,Er
+32603582,2015-09-16 08:39:57.933 UTC,postgresql|psycopg2|python|python-db-api|sql-injection,1,0.879414201,so,HT,CS
+20763476,2013-12-24 15:51:04.623 UTC,mysql|php|sql,1,0.900755405,so,"DC, Nv",CS
+29750534,2015-04-20 14:22:45.883 UTC,android|channel|hardcoded|java|parse-platform,1,0.333706707,so,DC,Er
+11528178,2012-07-17 17:58:23.857 UTC,content-management-system|last-insert-id|mysql,1,0.986421347,so,"DC,Er","Er, ES"
+14679711,2013-02-04 02:40:34.893 UTC,asp.net,1,0.778264463,so,Co,Co
+16376180,2013-05-04 15:58:44.11 UTC,code-injection|pdo|php|sql|sql-injection,1,0.758764327,so,"HT, Re, Nv",CS
+14732820,2013-02-06 15:36:42.757 UTC,php|xss,1,0.551847994,so,DH,AT
+5990100,2011-05-13 09:48:20.193 UTC,mysql|php|sql|sql-injection,1,0.801627576,so,Re,"DC, AT, CS"
+44598201,2017-06-16 21:22:49.253 UTC,azure|sql|tsql,1,0.492389768,so,"DC, Er","SA, CS"
+28775693,2015-02-27 22:50:28.953 UTC,asp.net|c#,1,0.749470234,so,Er,"AT, CS, ES, Er"
+51841526,2018-08-14 12:33:03.017 UTC,java|postgresql|sql|sql-insert|variables,1,0.849229515,so,DH,"Ex, CS, ES"
+16507500,2013-05-12 12:45:41.067 UTC,jdbc|netbeans|sql,1,0.986011624,so,"Er, DC","AT, CS, Er"
+23681993,2014-05-15 15:00:24.82 UTC,php|query-string|redirect|xss,1,0.500394225,so,HT,CS
+15685745,2013-03-28 15:24:11.733 UTC,ios|objective-c|sqlite|uitableview,1,0.79570365,so,DC,"AT, CS"
+51469649,2018-07-22 22:08:23.157 UTC,pdo|php|sql|sql-injection,1,0.975085199,so,Re,"AT, CS "
+41254156,2016-12-21 02:26:21.007 UTC,sql-injection,1,0.67102319,so,Re,"Ex, CS, ES"
+33134458,2015-10-14 19:55:47.137 UTC,html|mysql|php,1,0.872779846,so,HT,"Co, ES, Er, AT, CS"
+53489100,2018-11-26 21:08:52.117 UTC,mongo-java|mongodb|security,1,0.690182686,so,DH,"DC, ES"
+11334582,2012-07-04 19:33:13.28 UTC,sql|sql-injection|sqlmap,1,0.541579247,so,HT,"SA, AT"
+11957280,2012-08-14 17:02:48.247 UTC,encoding|httpmodule|httprequest|sql-injection|unicode,1,0.493375659,so,HT,"DC, Ex"
+24959626,2014-07-25 15:47:35.037 UTC,mysql|php,1,0.81170851,so,HT,"AT, CS, Er, ES"
+5240014,2011-03-09 00:23:27.147 UTC,php,1,0.817231596,so,DH,"DC, Ex"
+13724455,2012-12-05 13:34:13.287 UTC,html-lists|php|recursion,1,0.402933329,so,HT,"AT, CS, Er, ES"
+44306066,2017-06-01 11:17:02.51 UTC,php|sql|sql-injection,1,0.338321388,so,Re,"Er, ES"
+20623676,2013-12-17 00:24:25.017 UTC,mysql|php,1,0.834136248,so,DC,"Er, CS"
+50905081,2018-06-18 08:05:50.53 UTC,mysql|php|security|sql-injection,1,0.893213332,so,DC,"AT, CS, ES"
+30231586,2015-05-14 07:20:48.31 UTC,asp.net|asp.net-mvc-4|sql|sql-injection,1,0.401536375,so,HT,AT
+5135852,2011-02-27 20:49:10.633 UTC,ruby-on-rails|ruby-on-rails-3,1,0.631682396,so,Re,Co
+814139,2009-05-02 04:30:04.26 UTC,php,1,0.60240072,so,Er,"AT, CS"
+11216823,2012-06-26 22:28:11.83 UTC,mysql|php|sql-injection,1,0.739556432,so,Co,Ex
+3419717,2010-08-05 22:28:03.017 UTC,asp-classic|sql|sql-injection|sql-server,1,0.796445608,so,Re,Ex
+13624562,2012-11-29 11:16:51.857 UTC,php|security|sql|sql-injection,1,0.984614134,so,HT,"AT, ES, CS"
+4561249,2010-12-30 08:54:07.14 UTC,mysql|php|security|sql-injection,1,0.366045535,so,Co,"AT, Ex"
+29087135,2015-03-16 21:20:48.707 UTC,php|sql-injection|sql-server,1,0.734381318,so,HT,"SA, CS"
+23711825,2014-05-17 13:20:57.083 UTC,date|select|vb.net,1,0.537906229,so,HT,"CS, Er"
+3045971,2010-06-15 14:11:48.217 UTC,.net|asp.net|sql-server|sqldatasource,1,0.814107358,so,HT,"DC, ES"
+18183604,2013-08-12 09:28:09.233 UTC,code-injection|protection|sql|typo3,1,0.754193664,so,DH,"Co, CS, ES"
+30808224,2015-06-12 16:43:04.253 UTC,case-insensitive|mysql|sql|sql-like,1,0.89773041,so,HT,AT
+51501765,2018-07-24 14:55:54.627 UTC,c#|security|sql|sql-injection|sql-server,1,0.855753601,so,Re,"DC, Ex"
+48758442,2018-02-13 02:11:18.09 UTC,php,1,0.726213813,so,HT,"CS, Er, ES"
+5363672,2011-03-19 17:37:38.093 UTC,asp.net|c#|visual-studio-2008,1,0.880783439,so,"Er, Nv","Er, ES, Ex"
+8413412,2011-12-07 09:57:43.537 UTC,code-injection|function|php|sql,1,0.879031956,so,Re,"Er, AT, ES"
+56072348,2019-05-10 07:01:54.517 UTC,postgresql|prepared-statement|sql-injection|stored-procedures,1,0.986619174,so,HT,"Ex, CS, ES"
+16155188,2013-04-22 19:29:46.23 UTC,rails-activerecord|ruby-on-rails-3|sql|sql-injection|where,1,0.958035111,so,Re,DC
+182542,2008-10-08 12:46:21.07 UTC,asp.net|email|validation,1,0.346673399,so,HT,"AT, CS"
+18948970,2013-09-22 21:33:32.97 UTC,ios|objective-c|sqlite,1,0.565905035,so,DC,"Ex, CS, Er, ES"
+20365584,2013-12-04 02:16:35.657 UTC,database|mysql|php,1,0.989260316,so,Er,"AT, CS"
+52308249,2018-09-13 07:02:20.96 UTC,.net|.net-core|c#,1,0.641532302,so,Re,"Co, Ex"
+23373888,2014-04-29 19:46:06.353 UTC,dbconnection|include|mysql|php|sql-injection,1,0.621297121,so,DC,"AT, Ex, CS, ES"
+19154209,2013-10-03 08:20:57.023 UTC,sql-injection|sql-server,1,0.783676207,so,HT,"Ex, CS"
+8664885,2011-12-29 07:01:05.633 UTC,get|php|sanitization|security,1,0.58194983,so,Re,"AT, ES, Er"
+22910469,2014-04-07 10:59:58.137 UTC,hardcode|sql|ssms,1,0.759697855,so,HT,"AT, CS"
+13925508,2012-12-18 02:39:20.327 UTC,eclipse|esapi|invocationtargetexception|java|security,1,0.35522759,so,Er,"AT, ES"
+60870992,2020,mysql pdo php,1,0.757545114,so,DC,"Er, AT"
+233701,2020,directory-traversal file-inclusion javascript php,1,0.343985409,sse,DH,"DC, Ex "
+12498767,2012-09-19 16:15:20.453 UTC,esapi|servlets,2,0.293564886,so,DH,"SA, Co"
+27311934,2014-12-05 08:44:42.437 UTC,c++|memory-leaks|mfc|release,2,0.33757928,so,HT,"Ex, ES"
+48289038,2018-01-16 20:07:34.17 UTC,api|owasp|zap,2,0.430903167,so,HT,"AT, ES"
+27311934,2014-12-05 08:44:42.437 UTC,c++|memory-leaks|mfc|release,2,0.33757928,so,HT,"AT, ES"
+46064944,2017-09-06 00:08:41.173 UTC,laravel|laravel-5.5|php|segmentation-fault,2,0.348472238,so,Er,SA
+47514833,2017-11-27 15:48:49.443 UTC,owasp|zap,2,0.402709782,so,DC,Ex
+21998636,2014-02-24 20:46:59.67 UTC,java|junit|race-condition|unit-testing,2,0.473206908,so,DH,ES
+34915749,2016-01-21 05:03:54.26 UTC,debugging|memory-leaks|powershell,2,0.343712538,so,HT,"Co, ES"
+33299371,2015-10-23 09:45:51.377 UTC,htmlunit|java|openshift|selenium-webdriver|stack-overflow,2,0.259009898,so,Er,"AT, Ex, ES"
+9983430,2012-04-02 20:34:46.277 UTC,cydia|iphone|nstask|segmentation-fault,2,0.302725673,so,Er,SA
+50476768,2018-05-22 21:33:37.997 UTC,csrf|django|reactjs,3,0.52305603,so,"DC, Er","SA, CS, Er"
+23223762,2014-04-22 15:26:09.92 UTC,csrf|multipart|servlet-3.0|spring-mvc|spring-security,3,0.368767023,so,HT,"AT, CS, ES"
+32580974,2015-09-15 08:13:25.77 UTC,csrf|csrf-protection|elixir|phoenix-framework,3,0.818076253,so,HT,"DC, CS"
+18573395,2013-09-02 12:32:21.77 UTC,csrf|csrf-protection|yii,3,0.724108934,so,DC,"Er, ES"
+35473856,2016-02-18 05:52:06.97 UTC,asp.net-mvc|c#|csrf|security,3,0.522369444,so,DH,"DC, Ex, CS"
+11313804,2012-07-03 15:04:32.127 UTC,.net|asp.net-mvc|c#|csrf|security,3,0.798537433,so,DC,"Ex, ES"
+31947205,2015-08-11 16:30:50.593 UTC,angularjs|csrf|java|spring|spring-security,3,0.83054924,so,DC,"Ex, AT, ES"
+35004592,2016-01-25 23:43:45.327 UTC,csrf|google-app-engine|google-cloud-endpoints|google-oauth,3,0.816944182,so,HT,"DC, Ex, ES"
+36534184,2016-04-10 19:00:49.73 UTC,csrf|django|python,3,0.963070035,so,Er,"AT, CS, ES"
+47185703,2017-11-08 17:09:54.517 UTC,ajax|php|session,3,0.855334461,so,DH,"SA, DC, Ex, ES"
+39384321,2016-09-08 06:50:44.357 UTC,csrf|csrf-protection|postman|rest|web-services,3,0.771271765,so,HT,"Ex, ES"
+18214780,2013-08-13 16:48:01.27 UTC,cakephp|csrf|php,3,0.687372804,so,DH,"Ex, CS"
+39055480,2016-08-20 14:56:46.687 UTC,csrf-protection|protect-from-forgery|ruby-on-rails,3,0.594670415,so,DC,"AT, ES"
+47003272,2017-10-29 17:40:23.19 UTC,django|django-cors-headers|django-csrf,3,0.885083199,so,DC,Er
+26797864,2014-11-07 09:19:00.253 UTC,asp.net-mvc|csrf,3,0.769782543,so,DC,"Co, Ex"
+4840656,2011-01-30 01:48:20.71 UTC,csrf|php,3,0.530975044,so,DH,"Co, AT"
+37337691,2016-05-20 03:56:48.82 UTC,ajax|csrf|javascript|jquery|ruby-on-rails,3,0.706332684,so,"DC, Er","Er, AT, CS, ES"
+58270663,7/10/2019 13:34,cookies|google-chrome|javascript|samesite,3,0.425993174,so,DC,"Ex, ES"
+2648524,2010-04-15 19:52:43.197 UTC,security|session,3,0.341948539,so,HT,ES
+8286330,2011-11-27 14:43:44.613 UTC,http-headers|php|redirect|sanitization|security,3,0.425031483,so,DH,"Ex, ES"
+8361744,2011-12-02 19:47:27.077 UTC,.net|c#|security|wcf,3,0.447016388,so,Re,Co
+55798472,2019-04-22 17:34:41.7 UTC,authentication|azure|azure-active-directory,3,0.579835355,so,DC,"Ex, ES"
+11739086,2012-07-31 11:27:58.867 UTC,asp.net|httphandler|jquery,3,0.697847486,so,HT,"Ex, AT, ES, CS"
+48657518,2018-02-07 06:42:57.427 UTC,csrf|laravel-5,3,0.794984937,so,Er,SA
+46126820,2017-09-09 03:19:55.58 UTC,api-design|django|http-headers|python|rest,3,0.776986063,so,HT,"Er, AT, CS"
+2578397,2010-04-05 12:40:27.32 UTC,csrf|forms|sfguard|symfony1,3,0.822678924,so,HT,"AT, CS"
+9239717,2012-02-11 11:08:57.467 UTC,php,3,0.660579443,so,HT,AT
+27785780,2015-01-05 18:40:31.193 UTC,angularjs|servicestack,3,0.52620095,so,HT,"AT, CS"
+30334335,2015-05-19 19:18:46.473 UTC,html5-video|php|security|video-streaming,3,0.350976676,so,HT,"AT, ES"
+10061589,2012-04-08 08:50:24.993 UTC,ajax|codeigniter-2|csrf-protection|prototypejs,3,0.711544394,so,Er,"AT, ES, Er"
+38231010,2016-07-06 18:17:21.687 UTC,csrf-protection|flask|flask-wtforms|python|wtforms,3,0.8595258,so,HT,"AT, CS"
+219944,2008-10-20 21:13:55.817 UTC,php|session,3,0.499590993,so,Co,Ex
+38310546,2016-07-11 15:17:59.423 UTC,csrf|forms|php|symfony,3,0.7856704,so,"DC, Er","SA, ES"
+24992139,2014-07-28 09:24:37.743 UTC,csrf|express-4|node.js,3,0.553803265,so,HT,"AT, CS, ES"
+19171465,2013-10-04 00:55:59.59 UTC,csrf|csrf-protection|login|security,3,0.605006218,so,HT,"DC, AT"
+14985868,2013-02-20 17:14:58.243 UTC,antiforgerytoken|asp.net|asp.net-mvc-3|csrf,3,0.891461909,so,DC,Ex
+27310334,2014-12-05 06:45:58.873 UTC,angularjs|angularjs-scope|antiforgerytoken|asp.net-mvc|csrf-protection,3,0.818861425,so,DC,"SA, CS"
+6724365,2011-07-17 14:06:30.813 UTC,csrf|csrf-protection|php|security,3,0.508047521,so,DH,"DC, ES"
+31866435,2015-08-06 21:52:23.43 UTC,ajax|csrf|django|django-csrf|jquery,3,0.922602594,so,HT,"Co, Ex"
+3517350,2010-08-18 22:45:59.163 UTC,php|security|session|session-hijacking,3,0.467464,so,DH,"AT, CS, ES"
+19322973,2013-10-11 16:29:07.157 UTC,cors|denial-of-service|html5|javascript|security,3,0.585179031,so,DH,SA
+7250664,2011-08-30 22:46:56.63 UTC,asp.net|c#|eval|security|spoofing,3,0.495649785,so,HT,AT
+2760701,2010-05-03 19:39:15.737 UTC,csrf|security|spring-security|spring-webflow,3,0.662588954,so,HT,"AT, Ex, ES"
+13285706,2012-11-08 09:02:57.75 UTC,mediatemple|phantomjs|segmentation-fault|ubuntu|ubuntu-11.04,4,0.25827837,so,"DC, Er","Ex, AT"
+10468794,2012-05-06 06:59:17.747 UTC,denial-of-service|file-upload|load|php,4,0.462508529,so,HT,"AT, ES"
+13045593,2012-10-24 08:37:20.937 UTC,python|shell|subprocess,4,0.419354945,so,HT,CS
+34265831,2015-12-14 11:23:39.373 UTC,bash|exploit|memory-address|perl,4,0.40501973,so,DC,Er
+56795836,2019-06-27 17:11:26.357 UTC,exploit|messaging|winapi|windows,4,0.251311779,so,Co,"DC, Ex"
+8457618,2011-12-10 15:34:26.793 UTC,algorithm|deadlock|for-loop|multithreading,5,0.645670354,so,DC,Ex
+7993882,2011-11-03 11:10:41.257 UTC,azure|azure-sql-database|database-deadlocks|deadlock|sql-server,5,0.381844372,so,HT,ES
+25676116,2014-09-04 22:44:49.423 UTC,deadlock|sql,5,0.68002826,so,DH,"Co, Ex"
+47188883,2017-11-08 20:17:43.893 UTC,c++|c++11|multithreading|race-condition,5,0.734067619,so,DC,"DC, Ex"
+10873519,2012-06-03 20:01:36.003 UTC,c|c++|memory-leaks|multithreading|pthreads,5,0.332369775,so,DH,"ES, AT"
+5378501,2011-03-21 13:48:48.823 UTC,c#|deadlock|if-statement|locking|nested,5,0.662370563,so,DH,"DC, ES"
+29044994,2015-03-14 03:08:32.687 UTC,deadlock|mutex|system,5,0.614983797,so,"DH, Nv",Co
+25445428,2014-08-22 10:58:04.897 UTC,deadlock|mysql|transactions,5,0.742159069,so,"DC, Er","Ex, ES"
+6584355,2011-07-05 14:31:18.627 UTC,deadlock|java|synchronization,5,0.673847437,so,Co*,"Ex, ES"
+58720109,5/11/2019 21:58,java|multithreading|race-condition|thread-safety|thread-synchronization,5,0.638927042,so,DH,"DC, EX"
+11728277,2012-07-30 19:31:03.143 UTC,java|race-condition,5,0.58744359,so,DC,"Ex, AT"
+20528609,2013-12-11 19:51:07.767 UTC,deadlock|sql-server|sql-server-2008,5,0.690514147,so,HT,"Ex, AT"
+29231261,2015-03-24 11:20:59.79 UTC,async-await|c#|deadlock,5,0.726544321,so,Re,"Er, AT, CS"
+39654806,2016-09-23 07:13:30.493 UTC,deadlock|mysql|mysql-5.7,5,0.67182827,so,"DC, Er*","Ex, ES"
+28061668,2015-01-21 07:25:00.893 UTC,concurrency|distributed|mongodb|multithreading|race-condition,5,0.63158375,so,DH,"Co, AT, CS"
+14288039,2013-01-11 22:59:26.223 UTC,deadlock|process|python,5,0.776287317,so,HT,"AT, Ex, ES, CS"
+52553731,2018-09-28 10:49:12.17 UTC,8051|concurrency|embedded|microcontroller|race-condition,5,0.296247363,so,Re,"Er, ES"
+38788573,2016-08-05 11:51:43.403 UTC,java|race-condition,5,0.562420905,so,"HT, Re","Er, CS"
+26845274,2014-11-10 13:45:09.067 UTC,deadlock|process|transactions,5,0.509906471,so,DH,"Co, ES"
+59649759,2020,apache-spark deadlock oracle scala sql,5,0.673791707,so,"HT, Er","Er, AT"
+14742200,2013-02-07 01:44:52.657 UTC,hsm|security,6,0.417084247,so,DH,"Co, Ex, ES"
+3466966,2010-08-12 11:09:42.177 UTC,database|php|security,6,0.357932121,so,Co*,Ex
+42420859,2017-02-23 16:11:54.94 UTC,man-in-the-middle|md5,6,0.251110345,so,Co,"Ex, ES"
+12303590,2012-09-06 15:36:16.097 UTC,asp.net|c#|vb.net|visual-studio|web-config,6,0.393638819,so,DH*,ES
+43243515,2017-04-06 00:02:18.987 UTC,curl|php|xampp,6,0.288351446,so,Er,SA
+28792621,2015-03-01 10:43:16.737 UTC,https|man-in-the-middle|replay,6,0.638537467,so,Co,ES
+227531,2020,certificate-pinning penetration-test zap,6,0.378032416,sse,HT,"Co, AT, ES"
+47512987,2017-11-27 14:13:17.103 UTC,android|java|memory-leaks,7,0.803811014,so,Co,"SA, ES, CS"
+17930087,2013-07-29 17:12:03.973 UTC,asp.net-mvc|c#|iis|infinite-loop,7,0.424901664,so,DC,AT
+30431718,2015-05-25 05:25:00.163 UTC,android|garbage-collection|java|memory-leaks,7,0.676516414,so,DH,Ex
+49439660,2018-03-22 22:47:58.52 UTC,c++|casting|memory-leaks,7,0.480734736,so,Re,"DC, Ex"
+17177940,2013-06-18 20:08:22.64 UTC,c++|gdi|memory-leaks|winapi,7,0.42672956,so,DC,"AT, CS"
+18107480,2013-08-07 15:28:18.49 UTC,ajax|garbage-collection|jquery|memory-leaks|performance,7,0.474307954,so,DC,"DC, Ex"
+4114152,2010-11-06 17:13:14.703 UTC,iphone|memory-leaks,7,0.564492762,so,DC,"Er, AT"
+7392877,2011-09-12 19:23:05.223 UTC,instruments|ipad|iphone|memory-leaks|xcode,7,0.564054728,so,DC,AT
+545573,2009-02-13 11:06:07.37 UTC,memory-leaks|wpf,7,0.598855913,so,DH*,"DC, Ex, ES"
+25090573,2014-08-02 00:47:30.63 UTC,django|memory-leaks|python|uwsgi,7,0.441648096,so,DC,"SA, ES"
+53590512,2018-12-03 09:10:17.513 UTC,memory-leaks|visual-c++|winapi,7,0.382421911,so,"HT, DC","Er, CS, ES"
+17492839,2013-07-05 15:57:32.207 UTC,c#|longlistselector|memory-leaks|out-of-memory|windows-phone-8,7,0.654791594,so,DC,"AT, CS"
+22898769,2014-04-06 19:20:48.257 UTC,android|memory-leaks,7,0.616066694,so,"Er, DC","ES, AT"
+35473682,2016-02-18 05:38:55.287 UTC,c++|memory-leaks,7,0.53702414,so,DC,"DC, Ex, CS, ES"
+34387111,2015-12-20 23:33:05.397 UTC,memory-leaks|python,7,0.429209709,so,DC,"DC, Ex, CS, ES"
+41348707,2016-12-27 16:28:32.673 UTC,garbage-collection|memory-leaks|web-audio-api,7,0.36805433,so,DH,"DC, AT"
+48806361,2018-02-15 11:39:24.017 UTC,ios|memory-leaks|objective-c,7,0.600395501,so,HT,"SA, CS"
+44663361,2017-06-20 21:31:02.317 UTC,abaddressbook|memory-leaks|objective-c,7,0.382208019,so,DC,"AT, ES, CS"
+22008360,2014-02-25 08:21:54.13 UTC,java|memory-leaks|objectinputstream|objectoutputstream,7,0.343086898,so,Er,AT
+43624789,2017-04-26 04:00:12.573 UTC,automatic-ref-counting|memory-leaks|retain-cycle|swift,7,0.489517659,so,DH*,"DC, CS"
+18275775,2013-08-16 14:33:10.683 UTC,garbage-collection|memory-leaks|mvvm-light|telerik|windows-phone-7,7,0.666367769,so,HT,DC
+30526041,2015-05-29 09:33:01.577 UTC,c++|memory-leaks|opencv|qt,7,0.536733031,so,DC,"SA, ES"
+40040289,2016-10-14 09:56:44.653 UTC,java|memory-leaks|spring,7,0.508915901,so,DC,"ES, Ex, AT"
+20138254,2013-11-22 06:15:49.61 UTC,android|java|memory-leaks,7,0.706222355,so,DC,"Ex, ES, CS"
+25523212,2014-08-27 09:13:01.253 UTC,c#|datagrid|memory-leaks|wpf|xaml,7,0.386596233,so,DC,"Er, AT, ES"
+5782184,2011-04-25 19:18:03.023 UTC,.net|memory-leaks|wpf,7,0.430147111,so,"Er, DC","AT, ES"
+7628780,2011-10-02 19:50:20.18 UTC,android|bitmap|memory-leaks,7,0.654556811,so,"Er, DC",ES
+20381020,2013-12-04 16:42:42.157 UTC,memory-leaks|objective-c|xcode,7,0.518716872,so,DC,"Er, AT, CS"
+12989793,2012-10-20 15:15:47.483 UTC,libavcodec|libavformat|memory-leaks|visual-c++|visual-studio-2012,7,0.38438496,so,DC,SA
+5242444,2011-03-09 07:06:50.857 UTC,iphone|memory-leaks,7,0.689650953,so,Er,"Er, CS"
+4653869,2011-01-11 03:18:00.14 UTC,iphone|memory-leaks|memory-management|uiview|uiviewcontroller,7,0.76206845,so,DC,"Er, AT"
+56208665,2019-05-19 14:17:41.957 UTC,memory-leaks|swift|xcode|xcode-instruments|xcode10,7,0.48031047,so,DC,"SA, ES"
+29746209,2015-04-20 11:09:21.167 UTC,google-analytics|google-analytics-sdk|ios|memory-leaks,7,0.414964706,so,DC,"CS, ES"
+35489153,2016-02-18 18:06:45.677 UTC,android|memory-leaks,7,0.782426417,so,Er*,"SA, CS"
+2634523,2010-04-14 02:31:50.053 UTC,avaudioplayer|iphone|memory-leaks|objective-c,7,0.630810261,so,"HT, Nv","AT, CS"
+7846526,2011-10-21 07:53:53.357 UTC,delphi|delphi-xe|handle|resource-leak|windows,7,0.441288084,so,Co,Ex
+21162969,2014-01-16 13:20:23.34 UTC,garbage-collection|javascript|memory-leaks|node.js,7,0.650315404,so,DC,"Co, Ex"
+47512987,2017-11-27 14:13:17.103 UTC,android|java|memory-leaks,7,0.803811014,so,Co,"SA, Ex, CS, ES"
+22338107,2014-03-11 22:33:38.43 UTC,class-method|memory-leaks|objective-c,7,0.637900293,so,DH*,"DC, CS"
+30831035,2015-06-14 15:16:08.147 UTC,javascript|jquery|memory-leaks,7,0.515741646,so,Re,DC
+4646157,2011-01-10 11:07:24.813 UTC,android|memory|memory-leaks,7,0.39891699,so,DH,ES
+5219167,2011-03-07 11:34:28.367 UTC,c++|factory|initialization|segmentation-fault|stdmap,7,0.467637956,so,"Er, DC",ES
+9717592,2012-03-15 10:08:25.917 UTC,asynchronous|cancellationtokensource|f#|mailboxprocessor|memory-leaks,7,0.276129842,so,DH*,"Co, AT, ES"
+14620560,2013-01-31 07:28:29.837 UTC,android|memory-leaks,7,0.561484873,so,DC,"AT, ES"
+50188722,2018-05-05 11:06:21.417 UTC,android|android-fragments|android-recyclerview|android-viewpager|stack-overflow,7,0.567566633,so,"Er, DC",SA
+12437165,2012-09-15 12:00:33.523 UTC,android|dialog|memory-leaks,7,0.361103684,so,"DC, Er",CS
+48378937,2018-01-22 10:04:55.5 UTC,apache-httpclient-4.x|java|memory-leaks,7,0.33939442,so,DC,"SA, CS"
+15496585,2013-03-19 10:11:50.313 UTC,javascript|memory-leaks,7,0.560350597,so,DC,Ex
+39300090,2016-09-02 20:13:47.96 UTC,grand-central-dispatch|ios|memory-leaks|swift|textdocumentproxy,7,0.694274068,so,DC,SA
+5686022,2011-04-16 10:57:28.42 UTC,ios4|iphone|iphone-sdk-3.0|memory-leaks|objective-c,7,0.545569837,so,DC,"Er, CS"
+4643300,2011-01-10 02:46:41.133 UTC,memory-leaks|objective-c,7,0.425990134,so,DC,AT
+7883331,2011-10-25 00:07:43.727 UTC,class|class-method|memory-leaks|objective-c,7,0.516809464,so,DC,"Er, CS"
+5807504,2011-04-27 16:37:12.84 UTC,google-chrome|html5-video|javascript|memory-leaks,7,0.391294301,so,DC,"Co, ES"
+6517187,2011-06-29 07:33:07.693 UTC,denial-of-service|security,8,0.635700226,so,Co,"Ex, ES"
+44963447,2017-07-07 05:54:27.02 UTC,android|hardcoded|java|security,8,0.276725203,so,HT,CS
+30847159,2015-06-15 14:00:48.083 UTC,c++|libpcap|man-in-the-middle|tcp,8,0.665010512,so,HT,SA
+43173214,2017-04-02 20:30:40.807 UTC,azure,8,0.602227271,so,HT,"DC, AT, ES"
+55243071,2019-03-19 14:15:41.673 UTC,go|loops|memory-leaks,9,0.431721628,so,DH,"DC, AT, ES"
+56095018,2019-05-11 23:25:28.357 UTC,avl-tree|java|stack-overflow,9,0.652471721,so,"DC, Er","DC, Er, AT, CS"
+31973049,2015-08-12 18:44:06.17 UTC,c++|memory-leaks,9,0.547243536,so,Re,"AT, CS"
+10361926,2012-04-28 08:34:09.283 UTC,c++|memory|memory-leaks|operator-keyword|overloading,9,0.643710494,so,Re,"Co, AT, CS, ES"
+58488551,21/10/2019 14:33,buffer-overflow|c++|clang,9,0.796828032,so,"HT, Er","ES, Ex"
+23136161,2014-04-17 14:37:38.883 UTC,break|infinite-loop|loops|python|python-3.x,9,0.736954749,so,DC,"Er, CS"
+55698240,2019-04-15 22:49:49.307 UTC,buffer-overflow|c|heap|malloc,9,0.7460621,so,"DC, Nv","Ex, ES"
+35871265,2016-03-08 15:20:41.16 UTC,c++|memory-leaks|standard-library,9,0.682699919,so,DC,"AT, ES"
+21392515,2014-01-27 21:54:02.69 UTC,c++|memory-leaks|memory-management|vector,9,0.773567855,so,"DC, Er, Nv","Er, AT, CS"
+43595199,2017-04-24 18:23:07.577 UTC,infinite-loop|input|serversocket|while-loop,9,0.772151172,so,HT,AT
+23288852,2014-04-25 09:11:40.063 UTC,c++|segmentation-fault|string,9,0.821597695,so,"Er, DC","Er, AT, CS"
+6081753,2011-05-21 12:33:50.72 UTC,c|debugging|enums|segmentation-fault,9,0.806162059,so,"Er, DC",Er
+18817535,2013-09-15 21:11:24.003 UTC,arrays|java,9,0.864964068,so,"Er, DC","Er, AT, CS"
+14241364,2013-01-09 16:07:18.46 UTC,c|segmentation-fault,9,0.989508629,so,"Er, DC","Er, Ex, ES"
+56124766,2019-05-14 07:07:28.317 UTC,asynchronous|infinite-loop|javascript|scroll|settimeout,9,0.3582699,so,"HT, DC","AT, CS"
+3076603,2010-06-19 17:55:05.433 UTC,arrays|c|memory|memory-management|segmentation-fault,9,0.812379777,so,"DC, Er",Ex
+25329134,2014-08-15 15:18:31.53 UTC,infinite-loop|python,9,0.339271396,so,HT,"AT, CS"
+59259002,10/12/2019 1:37,c++|segmentation-fault,9,0.938421905,so,Re,"Er, CS"
+32445309,2015-09-07 19:58:39.847 UTC,haskell|memory-leaks|space-leak,9,0.364133716,so,DC,"Er, AT, CS"
+37648381,2016-06-06 01:18:26.123 UTC,boost-timer|c++|segmentation-fault|shared-ptr,9,0.60747242,so,"Er, DC","SA, Er, CS"
+3994801,2010-10-22 07:43:02.243 UTC,boost|c++|format|security,9,0.451585412,so,DH,"Co, Ex, ES"
+30925694,2015-06-18 20:58:26.913 UTC,c|segmentation-fault,9,0.791210353,so,"Er, DC","Er, AT, CS"
+27873309,2015-01-10 05:51:57.747 UTC,guava|integer-arithmetic|math|overflow|underflow,9,0.715028644,so,"DC, Er",Ex
+9951891,2012-03-31 00:20:12.053 UTC,c|memory-leaks|memory-management|pthreads,9,0.620809674,so,HT,"DC, Ex, AT, ES"
+11129366,2012-06-20 22:56:59.53 UTC,memory-leaks|ruby,9,0.466777623,so,HT,"Er, AT, CS"
+16344829,2013-05-02 18:07:50.75 UTC,c|c++|segmentation-fault,9,0.924038887,so,"Er, DC","Er, AT"
+39221417,2016-08-30 07:32:20.487 UTC,delphi|memory|memory-leaks|memory-management,9,0.293315917,so,Re,"AT, CS"
+7883608,2011-10-25 01:00:03.833 UTC,c++|pthreads|segmentation-fault,9,0.805631757,so,Er,"Er, CS"
+7371049,2011-09-10 10:17:02.777 UTC,iphone|memory-leaks|objective-c|xcode,9,0.460605145,so,DC,AT
+8243559,2011-11-23 14:08:31.713 UTC,c++|memory-leaks|multidimensional-array,9,0.401343346,so,DC,CS
+1186164,2009-07-27 02:21:08.12 UTC,c|segmentation-fault,9,0.615146101,so,"Er, DC","Er, CS"
+28264182,2015-02-01 15:09:35.113 UTC,c|linked-list|segmentation-fault,9,0.978019595,so,"DC, Er","Er, AT, CS"
+12129992,2012-08-26 12:09:07.687 UTC,arrays|c++|memory-leaks|pointers,9,0.829511881,so,DH,ES
+10930456,2012-06-07 10:59:46.51 UTC,infinite-loop|php,9,0.348391414,so,DH,ES
+16227514,2013-04-26 01:50:22.943 UTC,c++|memory-leaks|memory-management|new-operator|pointers,9,0.511372328,so,DH,"DC, CS"
+16243136,2013-04-26 18:40:04.4 UTC,c++,9,0.748152435,so,"Er, DC","Er, CS"
+4365117,2010-12-06 09:53:33.627 UTC,c|multithreading|pthreads|thread-safety,9,0.492744863,so,DH,"DC, AT"
+57399158,2019-08-07 16:57:40.607 UTC,c|segmentation-fault|strlen,9,0.956216097,so,"Er, DC","Er, AT, CS"
+35695183,2016-02-29 08:47:22.857 UTC,memory-leaks|memory-management|neural-network|tensorflow,9,0.536168993,so,DC,"Ex, AT, ES"
+29914862,2015-04-28 09:00:04.253 UTC,ajax|infinite-loop|javascript,9,0.60186553,so,DC,"Er, AT, CS"
+25496862,2014-08-26 01:52:47.837 UTC,libc|ruby|ruby-on-rails|segmentation-fault|sidekiq,9,0.493784249,so,"DC, Er","Er, ES"
+17980598,2013-07-31 20:42:19.277 UTC,concurrency|deadlock|gcj|java|static,9,0.452032268,so,DC,"Er, Ex"
+4065061,2010-10-31 20:55:54.977 UTC,macos|python|segmentation-fault|tidy,9,0.567106485,so,"Er, DC","Er, ES"
+16697361,2013-05-22 16:47:53.387 UTC,coredump|linux|segmentation-fault|signals,9,0.68081367,so,HT,"AT, CS"
+23294469,2014-04-25 13:23:58.94 UTC,assembly|nasm|x86,9,0.985344708,so,"Er, DC","Er, AT"
+40615186,2016-11-15 16:39:47.683 UTC,boolean|c++|segmentation-fault,9,0.808813512,so,"DC, Er","DC, Er, AT, CS"
+35180482,2016-02-03 15:02:11.25 UTC,c|encryption|segmentation-fault,9,0.877569258,so,"Er, DC","Er, AT, CS, ES"
+7007703,2011-08-10 08:12:34.243 UTC,c|multithreading|pthreads|segmentation-fault,9,0.835772395,so,"Er, DC","Er, CS"
+16324626,2013-05-01 19:04:48.693 UTC,buffer-overflow|linux|linux-device-driver|linux-kernel,9,0.517115891,so,DH,"Co, ES"
+40618745,2016-11-15 20:07:10.42 UTC,bitboard|chess|integer-overflow|swift|xcode,9,0.564251423,so,Er,"Co, AT"
+52399433,2018-09-19 06:25:29.303 UTC,c|character|segmentation-fault|strcpy|string,9,0.819957793,so,"Er, DC","Er, AT, CS"
+14144216,2013-01-03 17:40:20.197 UTC,buffer-overflow|c,9,0.5282166,so,DC,"Ex, AT"
+47125335,2017-11-05 18:53:46.287 UTC,buffer|buffer-overflow|c,9,0.691064835,so,DC,"AT, CS"
+32824534,2015-09-28 13:40:08.84 UTC,c|gcc|infinite-loop|integer-overflow|optimization,9,0.869391084,so,DC,"Er, Ex"
+15191391,2013-03-03 21:59:10.687 UTC,intel-mkl|memory-leaks|numpy|python,9,0.550393283,so,"HT, DC","Co, ES"
+26578653,2014-10-26 22:20:55.343 UTC,pointers|segmentation-fault,9,0.724705458,so,"Er, DC",Er
+53446941,2018-11-23 12:43:32.017 UTC,buffer-overflow|c|strcmp,9,0.878489733,so,DC,Ex
+18084503,2013-08-06 15:34:42.717 UTC,c|json|parsing|segmentation-fault|token,9,0.601178527,so,"Er, DC","Er, AT"
+53762186,2018-12-13 12:46:22.833 UTC,c++|c++14|constructor|memory-leaks,9,0.498941749,so,DC,Ex
+14308697,2013-01-13 21:59:30.607 UTC,d|dmd|gcc|gnu-toolchain|segmentation-fault,9,0.378793657,so,"Er, DC","ES, AT"
+21039913,2014-01-10 09:00:27.453 UTC,c|dynamic-memory-allocation|linked-list|segmentation-fault,9,0.946984887,so,"Er, DC","Er, AT"
+41458022,2017-01-04 07:03:49.33 UTC,c++|linux|opencv|python|segmentation-fault,9,0.508484066,so,"DC, Er","DC, AT"
+50610889,2018-05-30 17:59:54.253 UTC,buffer-overflow|c,9,0.370725036,so,DC,"Er, AT, ES"
+6614069,2011-07-07 16:42:49.747 UTC,centos|memcheck|memory-leaks|summary|valgrind,9,0.547554553,so,DC,"Er, AT"
+45005078,2017-07-10 06:27:20.947 UTC,assembly|segmentation-fault|x86-64,9,0.768521845,so,"DC, Er",Er
+30429457,2015-05-24 23:34:25.713 UTC,c|memory-leaks,9,0.530937016,so,DC,Er
+33558841,2015-11-06 03:15:16.42 UTC,buffer-overflow|c,9,0.804600239,so,HT,"AT, CS"
+50218217,2018-05-07 16:00:02.827 UTC,c++|exploit|strcpy,9,0.562922955,so,DH,Co
+6447744,2011-06-22 23:31:28.147 UTC,c|segmentation-fault|strcpy,9,0.893075109,so,DC,Ex
+28414913,2015-02-09 16:49:43.137 UTC,byte|c++|increment|overflow|underflow,9,0.759452224,so,HT,"Ex, AT"
+33071577,2015-10-12 00:24:10.08 UTC,c++|operator-overloading|segmentation-fault,9,0.821209311,so,"Er, DC, Nv","AT, CS"
+33091630,2015-10-12 23:09:47.973 UTC,buffer|c|pointers|segmentation-fault,9,0.7496593,so,"Er, DC","Er, AT, CS, ES"
+20292392,2013-11-29 19:38:14.523 UTC,c|segmentation-fault,9,0.738100111,so,"Er, DC","Er, AT"
+33304550,2015-10-23 14:15:22.317 UTC,bmp|c|memory-leaks|valgrind,9,0.547675312,so,"DC, Re","Er, AT"
+42600920,2017-03-04 20:18:56.393 UTC,go|panic|stack|stack-overflow|struct,9,0.814822853,so,"Er, DC","Ex, AT"
+4063160,2010-10-31 12:54:30.053 UTC,binary-tree|java|rebuild|stack-overflow,9,0.636548758,so,Er,Er
+50141024,2018-05-02 18:11:53.693 UTC,arrays|c|pass-by-pointer|segmentation-fault,9,0.805823386,so,"Er, DC","Er, AT"
+1727673,2009-11-13 07:21:55.257 UTC,assembly|gcc|inline-assembly|segmentation-fault,9,0.746721983,so,"Er, DC",AT
+39950635,2016-10-10 02:45:36.53 UTC,assignment-operator|c++|linked-list|memory-leaks,9,0.823168457,so,DC,"AT, CS, Ex, ES"
+20619346,2013-12-16 19:34:05.03 UTC,c|segmentation-fault|sockets,9,0.653207898,so,"Er, DC","Er, Ex, AT"
+21557763,2014-02-04 16:21:15.013 UTC,arrays|c|java|java-native-interface|segmentation-fault,9,0.932015121,so,"Er, DC","Er, CS"
+4489066,2010-12-20 11:11:45.247 UTC,memory|memory-leaks|visual-studio-2008,9,0.585333228,so,DC,"DC, AT"
+26062730,2014-09-26 15:08:46.353 UTC,antlr4|java|parsing|stack-overflow,9,0.534941196,so,"Er, DC","Ex,CS"
+29024905,2015-03-13 04:31:24.947 UTC,bubble-sort|c|segmentation-fault,9,0.752342522,so,"Er, DC","Er, CS, AT"
+54830033,2019-02-22 15:12:27.65 UTC,c++|c++11|c++14|pointers|segmentation-fault,9,0.97049576,so,"Er, DC","Er, Ex"
+3790171,2010-09-24 19:09:23.393 UTC,error-handling|java|stack-overflow,9,0.664306104,so,"Er, DC",Ex
+42569493,2017-03-03 02:21:49.673 UTC,c|free|malloc|memory-leaks,9,0.393875748,so,DH,"DC, Ex"
+6194490,2011-05-31 22:56:12.327 UTC,c++|memory-leaks|stdlist,9,0.625408173,so,HT,"AT, CS"
+48478857,2018-01-27 18:03:50.803 UTC,c++|double-free|shared-ptr,9,0.825848222,so,DC,DC
+28461513,2015-02-11 18:17:59.903 UTC,c|memory-leaks|valgrind,9,0.930935264,so,DC,"Er, AT, CS"
+34765179,2016-01-13 11:13:27.177 UTC,c|malloc|segmentation-fault,9,0.983213723,so,"Er, DC, Nv","Er, AT"
+36378129,2016-04-02 20:03:36.32 UTC,c++|macos|segmentation-fault|wxwidgets,9,0.453395277,so,"Er, DC","Er, AT"
+29024201,2015-03-13 03:02:11.423 UTC,c|segmentation-fault,9,0.974356592,so,"Er, DC","Er, AT, CS"
+34453694,2015-12-24 13:39:54.833 UTC,c++|memory|segmentation-fault,9,0.923926175,so,Er,"Er, AT"
+1935642,2009-12-20 12:07:47.313 UTC,c|segmentation-fault,9,0.944977403,so,"Er, DC","AT, CS"
+33190927,2015-10-17 19:51:27.15 UTC,c++|memory-leaks,9,0.716942251,so,DC,"AT, CS"
+38942770,2016-08-14 13:36:28.33 UTC,c++|infinite-loop|loops|vector|while-loop,9,0.933510363,so,DC,"Er, CS, Ex"
+7189313,2011-08-25 11:07:57.903 UTC,ios|memory-leaks|multithreading|xcode4,9,0.425704032,so,DC,"Ex, Co, AT, CS"
+12145662,2012-08-27 16:16:18.603 UTC,c++|g++|memory-leaks|mtrace|static-libraries,9,0.597534299,so,DC,"CS, Ex, DC"
+28472868,2015-02-12 08:43:18.98 UTC,c|free|longjmp|malloc|memory-leaks,9,0.665426373,so,DH,DC
+34428052,2015-12-23 03:13:59.217 UTC,c|inflate|memory-leaks|zlib,9,0.458081871,so,DC,"Er, AT"
+18497956,2013-08-28 20:52:09.607 UTC,bind|c,9,0.753112257,so,"Er, DC","AT, CS"
+13353329,2012-11-12 23:28:21.05 UTC,binary|c|malloc|realloc|string,9,0.935121119,so,DC,"Er, AT, CS"
+43329152,2017-04-10 17:11:28.363 UTC,java|netbeans|recursion|stack|stack-overflow,9,0.72416687,so,"Er, DC","Ex, AT, CS"
+56236962,2019-05-21 11:07:28.283 UTC,generics|queue|rust|segmentation-fault|unsafe,9,0.586167216,so,"Er, DC",Ex
+34157025,2015-12-08 13:22:21.893 UTC,c|segmentation-fault,9,0.691143334,so,"Er, DC","Er, AT, CS"
+22204292,2014-03-05 17:01:58.523 UTC,c++|c++14|constexpr|infinite-loop|undefined-behavior,9,0.827802062,so,DH,Ex
+55380031,2019-03-27 14:44:49.28 UTC,buffer-overflow|c|gcc|gdb,9,0.56286484,so,DC,"Er, AT"
+29809018,2015-04-22 21:16:25.983 UTC,c++|linux|segmentation-fault|sigsegv|windows,9,0.622471154,so,"Er, DC","Er, AT, CS"
+6601725,2011-07-06 19:17:39.987 UTC,c++|map|memory|memory-management|segmentation-fault,9,0.573484957,so,"Er, HT","Er, AT"
+2653334,2010-04-16 13:45:45.197 UTC,c++|memory-leaks,9,0.65944767,so,DC,"Er, CS"
+60581658,2020,infinite-loop input java loops output,9,0.789336681,so,"DC, Nv",CS
+224059,2020,buffer-overflow exploit-development rop,9,0.7957412,sse,DC,"Er, Ex"
+61309029,2020,c gcc malloc segmentation-fault,9,0.846226633,so,"DC, Er","Er, AT, CS"
+224059,2020,buffer-overflow exploit-development rop,9,0.7957412,sse,DC,"Er, Ex"
+5824202,2011-04-28 19:56:03.92 UTC,dom|javascript|xss,10,0.641202569,so,HT,ES
+44108447,2017-05-22 08:46:38.783 UTC,javascript|security|xss,10,0.829792559,so,HT,DC
+48419317,2018-01-24 09:49:05.41 UTC,django|security|templates|web|web-applications,10,0.413230538,so,HT,"DC, Ex"
+445177,2009-01-15 00:11:31.62 UTC,asp.net|asp.net-mvc|security|xss,10,0.884898484,so,HT,ES
+9341194,2012-02-18 12:36:23.847 UTC,php|string|xss,10,0.37263751,so,Re,"DC, Ex"
+5379775,2011-03-21 15:24:12.803 UTC,ajax|javascript|jquery|memory-leaks,10,0.426277518,so,HT,AT
+2374687,2010-03-03 20:28:29.18 UTC,html|php|validation|xss,10,0.575799525,so,DH,"Co, AT, ES"
+39034286,2016-08-19 08:19:00.073 UTC,angular|angularjs|javascript,10,0.69753474,so,DH*,Ex
+18034101,2013-08-03 14:52:42.55 UTC,google-caja|javascript|node.js|xss,10,0.617943704,so,HT,"DC, AT, CS"
+10538658,2012-05-10 16:44:25.94 UTC,arrays|javascript|php|xss,10,0.418221802,so,Re,"DC, AT"
+46651053,2017-10-09 16:30:15.603 UTC,.htaccess|click|clickjacking,10,0.651770711,so,HT,AT
+42725293,2017-03-10 18:23:30.123 UTC,django|python|sanitization|security|xss,10,0.790578127,so,HT,"AT, ES"
+50282260,2018-05-10 22:16:09.043 UTC,angular|base64|ionic-framework|sanitization|typescript,10,0.562773287,so,"DC, Er","AT, ES"
+1871418,2009-12-09 03:29:35.253 UTC,filter|filtering|input-sanitization|sanitize,10,0.477320224,so,DH,AT
+5515264,2011-04-01 15:09:54.113 UTC,firefox-addon|javascript|plugins|security|widget,10,0.775592923,so,DH,"AT, ES"
+13261271,2012-11-06 23:52:17.447 UTC,htmlpurifier|xss,10,0.741493464,so,"DH, Nv","Co, ES"
+7364881,2011-09-09 16:46:37.567 UTC,html|javascript|security|web,10,0.36571756,so,Co,ES
+32009466,2015-08-14 11:54:43.327 UTC,encryption|fuzzing|javascript|zap,10,0.382254034,so,HT,"AT, ES"
+29915371,2015-04-28 09:21:55.447 UTC,browser|firefox|javascript|security|xss,10,0.80765456,so,HT,"DC, Er, AT "
+8969142,2012-01-23 09:02:11.84 UTC,asp.net-mvc|xss,10,0.847743571,so,DH,"Co, Ex, AT"
+199017,2008-10-13 21:00:04.523 UTC,html|php|security|validation|xss,10,0.72058779,so,HT,"AT, ES"
+15578338,2013-03-22 19:25:36.637 UTC,asp.net|c#|regex|security|xss,10,0.750692904,so,DH,"DC, ES"
+15881594,2013-04-08 14:20:43.903 UTC,ajax|ajaxcontroltoolkit|asp.net|htmleditorextender|sanitization,10,0.290688306,so,DC,"AT, CS, ES"
+13345545,2012-11-12 14:32:32.297 UTC,mysql|php|security|xss,10,0.500455618,so,DH,"Co, AT, ES"
+3380123,2010-07-31 23:07:58.497 UTC,css,10,0.690441787,so,Co,"Co, Ex, ES"
+6823377,2011-07-25 22:53:56.727 UTC,asp.net|asp.net-mvc-3|c#,10,0.546212137,so,HT,"AT, CS"
+1051090,2009-06-26 20:21:36.863 UTC,internet-explorer-6|javascript|jquery|jquery-ui|memory-leaks,10,0.305477679,so,HT,"DC, Ex, At, ES"
+22860382,2014-04-04 10:34:50.93 UTC,escaping|html|web|xss,10,0.756890833,so,HT,AT
+35434862,2016-02-16 14:14:48.85 UTC,c#|owasp|winforms|xss,10,0.675120831,so,DH,"Er, AT"
+33357193,2015-10-26 23:09:22.877 UTC,geoip|infinite-loop|url-redirection,10,0.436065286,so,HT,"AT, CS"
+36099592,2016-03-19 08:33:01.267 UTC,content-security-policy|http|http-headers|security|x-frame-options,10,0.574910581,so,Co,"Ex, ES"
+8680331,2011-12-30 14:12:48.903 UTC,contact-form|php|spam,10,0.414636582,so,DC,Er
+14024988,2012-12-24 19:19:34.567 UTC,html|javascript|jquery|php|xss,10,0.757471025,so,"HT, Nv","DC, ES"
+10130094,2012-04-12 19:06:52.053 UTC,garbage-collection|html|memory-leaks|php,10,0.311021775,so,"DC, ER","Er, AT"
+6973436,2011-08-07 14:41:01.217 UTC,asp.net-mvc|ckeditor|html|mysql|post,10,0.575231135,so,DH*,"AT, ES"
+224864,2020,internet web-browser,10,0.313426703,sse,Co,"Ex, ES"
+1319956,2009-08-24 00:21:28.333 UTC,cookies|language-agnostic,11,0.358979076,so,HT,"AT, Ex, ES"
+17579086,2013-07-10 19:13:52.13 UTC,gnu-make|makefile|race-condition,11,0.490254551,so,DH,DC
+6100830,2011-05-23 17:41:53.663 UTC,security,11,0.508249283,so,DH,Ex
+31295038,2015-07-08 14:02:26.583 UTC,c|haskell|segmentation-fault|z3,11,0.348960876,so,"Er, DC","Co, Ex, ES"
+41985125,2017-02-01 16:45:09.423 UTC,owasp|security-testing|selenium|zap,11,0.574020028,so,HT,"Co, AT, ES"
+25449121,2014-08-22 14:16:43.41 UTC,build|c#|compiler-errors|visual-studio-2008,11,0.321935952,so,"Er, DC","Ex, AT"
+4414449,2010-12-11 00:28:39.073 UTC,android|exploit|security,11,0.354562193,so,Re,"DC, Ex, At"
+52821383,2018-10-15 16:53:38.47 UTC,information-retrieval|json|python|security,11,0.592896402,so,"HT, NV","DC, ES, AT"
+2258257,2010-02-13 16:29:09.397 UTC,posix|python|race-condition|security,11,0.394411951,so,HT,"Ex, AT"
+15375571,2013-03-13 01:41:13.553 UTC,.net|c#|sockets,11,0.49403438,so,HT,"Ex, AT, ES"
+54751896,2019-02-18 16:48:32.467 UTC,maven|owasp,11,0.3039352,so,"Er, DC",SA
+34342193,2015-12-17 18:55:29.867 UTC,exploit|security|swift,11,0.623563945,so,Co,"AT, ES"
+11249066,2012-06-28 16:33:12.537 UTC,pci-compliance|windows|windows-server-2008,11,0.436918885,so,DC,"Ex, Er, ES"
+585358,2009-02-25 09:47:10.48 UTC,php|security,11,0.419514,so,"DH, Nv","AT, ES"
+30221036,2015-05-13 16:58:25.673 UTC,android|in-app-purchase|ssl,11,0.421727985,so,DH,"Ex, ES"
+3703227,2010-09-13 18:19:17.52 UTC,c|linux|recover|restart|segmentation-fault,11,0.350734919,so,HT,AT
+3417521,2010-08-05 17:39:52.717 UTC,ruby|security,11,0.565610111,so,Co,"Ex, ES"
+28149108,2015-01-26 11:20:03.763 UTC,apache|http|http-referer|mod-rewrite|security,11,0.229866102,so,DH,"DC, Ex"
+2794016,2010-05-08 12:21:02.56 UTC,security,11,0.699135184,so,DH,"AT, ES"
+34002716,2015-11-30 15:59:27.817 UTC,globalplatform|javacard|smartcard,11,0.466982096,so,DH,"DC, Ex"
+7094035,2011-08-17 13:55:25.947 UTC,java|maven|security,11,0.489186466,so,Co,"Ex, AT"
+23674565,2014-05-15 09:41:16.57 UTC,c++|gcc|linux,11,0.303173512,so,HT,Co
+1611961,2009-10-23 07:56:08.593 UTC,principles|security,11,0.770937264,so,HT,AT
+2683626,2010-04-21 14:09:48.757 UTC,brute-force|hash|language-agnostic|passwords|security,11,0.436175972,so,DH*,"DC, Ex"
+56243218,2019-05-21 17:04:18.727 UTC,artifactory|jfrog-xray,11,0.513433099,so,DC,"Ex, ES"
+1751364,2009,c# security sockets ssl,11,0.369782329,so,"DH, Nv","Ex, ES"
+3857971,2010,escaping input php,11,0.395807564,so,Re,Er
+56888580,2019,amazon-cognito amazon-web-services aws-appsync,11,0.468712598,so,DH,"Ex, ES"
+225881,2020,excel injection office windows,11,0.334286064,sse,DC,"SA, ES"
+225262,2020,xss,11,0.508634269,sse,DH,"Co, Ex, ES"
+19564047,2013-10-24 10:58:45.933 UTC,asp.net|wcf,12,0.496506661,so,Er,"CS, Er"
+13838019,2012-12-12 10:46:13.12 UTC,crypt|python|registration|tornado,12,0.431012869,so,DH,"Ex, ES"
