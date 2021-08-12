@@ -1,5 +1,5 @@
 # SV_Empirical_Study
-Reproduction package for the paper "A Large-scale Study of Security Vulnerability Support on Developer Q&A Websites", accepted for publication at the Evaluation and Assessment in Software Engineering (EASE) 2021.
+Reproduction package for the paper "A Large-scale Study of Security Vulnerability Support on Developer Q&A Websites", accepted for publication at the [Evaluation and Assessment in Software Engineering (EASE) 2021](https://conf.researchr.org/details/ease-2021/ease-2021-papers/2/A-Large-scale-Study-of-Security-Vulnerability-Support-on-Developer-Q-A-Websites). Preprint: https://arxiv.org/abs/2008.04176
 
 It is noted that our reproduction package has been tested in Python 3.6.4. If you cannot run .sh file in Windows operating system, you can copy and run each command specified in .sh files in cmd.
 
